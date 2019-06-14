@@ -1,0 +1,27 @@
+{
+	"name": "boobs-quiz-extension",
+	"short_name": "English Quizzes Extension",
+	"description": "Learning english with funny boobs pictures",
+	"version": "0.0.1",
+	"manifest_version": 2,
+	"icons": {
+		"16": "images/icon.png",
+		"128": "images/icon.png"
+	},
+	"browser_action": {
+		"default_icon": {
+			"19": "images/icon.png",
+			"38": "images/icon.png"
+		},
+		"default_title": "English Quizzes Extension",
+		"default_popup": "index.html"
+	},
+	"omnibox": {
+		"keyword": "todo"
+	},
+	"background": {
+		"scripts": ["js/background.js"]
+	},
+	"content_security_policy": "script-src 'self' 'unsafe-eval'; object-src 'self'",
+	"permissions": ["storage", "<all_urls>"]
+}
