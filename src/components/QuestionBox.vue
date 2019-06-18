@@ -23,10 +23,8 @@
       </b-col>
 
       <b-col>
-        <span class="failed" v-if="answered && selectedKey !== correctKey">Sorry, you got it wrong!</span>
-
         <!-- Here are images -->
-        <ImageBox v-if="selectedKey === correctKey"/>
+        <ImageBox v-if="answered" :correctAnswer="selectedKey === correctKey"/>
       </b-col>
     </b-row>
 
