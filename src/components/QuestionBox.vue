@@ -22,10 +22,9 @@
         </ul>
       </b-col>
 
-      <b-col v-if="selectedKey === correctKey" class="reward">
+      <b-col>
         <!-- Here are images -->
-        <span>Baby, you nailed it!</span>
-        <img src alt>
+        <ImageBox v-if="selectedKey === correctKey"/>
       </b-col>
     </b-row>
 
@@ -35,7 +34,12 @@
 
 <script>
 import _ from "lodash";
+import ImageBox from "@/components/ImageBox";
+
 export default {
+  components: {
+    ImageBox
+  },
   props: {
     currentQuestion: Object,
     index: Number,
@@ -101,10 +105,6 @@ export default {
 </script>
 
 <style scoped>
-.reward span {
-  font-style: italic;
-  font-weight: bold;
-}
 .dot {
   height: 28px;
   width: 28px;
