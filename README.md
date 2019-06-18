@@ -1,6 +1,6 @@
 # boobies-quiz-extension
 
-> Learning english with quizzes funny boobs pictures, really inspiring and motivational!
+> Learning english with quizzes funny boobs pictures, really inspiring and educational!
 
 ## Project Setup
 

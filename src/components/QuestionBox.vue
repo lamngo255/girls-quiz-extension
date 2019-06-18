@@ -23,6 +23,8 @@
       </b-col>
 
       <b-col>
+        <span class="failed" v-if="answered && selectedKey !== correctKey">Sorry, you got it wrong!</span>
+
         <!-- Here are images -->
         <ImageBox v-if="selectedKey === correctKey"/>
       </b-col>
@@ -105,6 +107,12 @@ export default {
 </script>
 
 <style scoped>
+.failed {
+  color: #e74c3c;
+  font-weight: bold;
+  font-style: italic;
+}
+
 .dot {
   height: 28px;
   width: 28px;
