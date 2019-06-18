@@ -1,0 +1,7979 @@
+[
+	{
+		"id": 0,
+		"question": "Successful candidates will be posted to either New York .......................Paris.",
+		"answers": [
+			{
+				"content": "or",
+				"key": "A"
+			},
+			{
+				"content": "neither",
+				"key": "B"
+			},
+			{
+				"content": "nor",
+				"key": "C"
+			},
+			{
+				"content": "both",
+				"key": "D"
+			}
+		],
+		"correct_answer": "A"
+	},
+	{
+		"id": 1,
+		"question": "Please remember to include your .................. at the bottom of the order form.",
+		"answers": [
+			{
+				"content": "signing",
+				"key": "A"
+			},
+			{
+				"content": "signed",
+				"key": "B"
+			},
+			{
+				"content": "signature",
+				"key": "C"
+			},
+			{
+				"content": "to sign",
+				"key": "D"
+			}
+		],
+		"correct_answer": "C"
+	},
+	{
+		"id": 2,
+		"question": "Every two years, the board of directors........................ a new financial officer to oversee the company's domestic operations.",
+		"answers": [
+			{
+				"content": "deposits",
+				"key": "A"
+			},
+			{
+				"content": "appoints",
+				"key": "B"
+			},
+			{
+				"content": "predicts",
+				"key": "C"
+			},
+			{
+				"content": "operates",
+				"key": "D"
+			}
+		],
+		"correct_answer": "B"
+	},
+	{
+		"id": 3,
+		"question": "Ms. Yakamoto has..................... that the department meeting be postponed until everyone returns from vacation.",
+		"answers": [
+			{
+				"content": "suggest",
+				"key": "A"
+			},
+			{
+				"content": "suggestion",
+				"key": "B"
+			},
+			{
+				"content": "suggested",
+				"key": "C"
+			},
+			{
+				"content": "suggesting",
+				"key": "D"
+			}
+		],
+		"correct_answer": "C"
+	},
+	{
+		"id": 4,
+		"question": "Market Solutions is one of Europe's leading international business magazines, with............................in over 50 countries.",
+		"answers": [
+			{
+				"content": "subscribers",
+				"key": "A"
+			},
+			{
+				"content": "spectators",
+				"key": "B"
+			},
+			{
+				"content": "witnesses",
+				"key": "C"
+			},
+			{
+				"content": "participants",
+				"key": "D"
+			}
+		],
+		"correct_answer": "A"
+	},
+	{
+		"id": 5,
+		"question": "Employees on international assignment with Daniel Windmere Corporation receive....................... ﬁnancial support when finding a place to live.",
+		"answers": [
+			{
+				"content": "extend",
+				"key": "A"
+			},
+			{
+				"content": "extent",
+				"key": "B"
+			},
+			{
+				"content": "extensive",
+				"key": "C"
+			},
+			{
+				"content": "extending",
+				"key": "D"
+			}
+		],
+		"correct_answer": "C"
+	},
+	{
+		"id": 6,
+		"question": "According to the Cosmopolitan News, Gemstone Records will soon be opening a store.................. located on Grand Avenue.",
+		"answers": [
+			{
+				"content": "conveniently",
+				"key": "A"
+			},
+			{
+				"content": "correctly",
+				"key": "B"
+			},
+			{
+				"content": "greatly",
+				"key": "C"
+			},
+			{
+				"content": "widely",
+				"key": "D"
+			}
+		],
+		"correct_answer": "A"
+	},
+	{
+		"id": 7,
+		"question": "Mr. Garcia has a good chance of getting the marketing job, although................ for it will be fierce.",
+		"answers": [
+			{
+				"content": "competitively",
+				"key": "A"
+			},
+			{
+				"content": "competitive",
+				"key": "B"
+			},
+			{
+				"content": "competes",
+				"key": "C"
+			},
+			{
+				"content": "competition",
+				"key": "D"
+			}
+		],
+		"correct_answer": "D"
+	},
+	{
+		"id": 8,
+		"question": "Please review the ..................for new safety procedures, and add your comments.",
+		"answers": [
+			{
+				"content": "proposing",
+				"key": "A"
+			},
+			{
+				"content": "propose",
+				"key": "B"
+			},
+			{
+				"content": "proposes",
+				"key": "C"
+			},
+			{
+				"content": "proposal",
+				"key": "D"
+			}
+		],
+		"correct_answer": "D"
+	},
+	{
+		"id": 9,
+		"question": "The jacket you ordered is currently...................... in the color you requested, but we will send the rest of your order promptly.",
+		"answers": [
+			{
+				"content": "related",
+				"key": "A"
+			},
+			{
+				"content": "stylish",
+				"key": "B"
+			},
+			{
+				"content": "disinterested",
+				"key": "C"
+			},
+			{
+				"content": "unavailable",
+				"key": "D"
+			}
+		],
+		"correct_answer": "D"
+	},
+	{
+		"id": 10,
+		"question": "First City Bank assured its customers that it................... exceptional service in spite of the ongoing renovations in several branches.",
+		"answers": [
+			{
+				"content": "maintaining",
+				"key": "A"
+			},
+			{
+				"content": "maintain",
+				"key": "B"
+			},
+			{
+				"content": "will maintain",
+				"key": "C"
+			},
+			{
+				"content": "to maintain",
+				"key": "D"
+			}
+		],
+		"correct_answer": "C"
+	},
+	{
+		"id": 11,
+		"question": "Fordham Stationers recently decided to switch suppliers because Valley Paper has been............ late in shipping their orders.",
+		"answers": [
+			{
+				"content": "steadily",
+				"key": "A"
+			},
+			{
+				"content": "sensibly",
+				"key": "B"
+			},
+			{
+				"content": "exactly",
+				"key": "C"
+			},
+			{
+				"content": "consistently",
+				"key": "D"
+			}
+		],
+		"correct_answer": "D"
+	},
+	{
+		"id": 12,
+		"question": "Although multiple studies were conducted by market research groups, it is still uncertain whether customers are ready to purchase................. groceries on the Internet.",
+		"answers": [
+			{
+				"content": "ours",
+				"key": "A"
+			},
+			{
+				"content": "theirs",
+				"key": "B"
+			},
+			{
+				"content": "their",
+				"key": "C"
+			},
+			{
+				"content": "ourselves",
+				"key": "D"
+			}
+		],
+		"correct_answer": "C"
+	},
+	{
+		"id": 13,
+		"question": "Neblus, lnc., will have to add staff if it expects to............ all of the orders by the end of the year.",
+		"answers": [
+			{
+				"content": "affect",
+				"key": "A"
+			},
+			{
+				"content": "contain",
+				"key": "B"
+			},
+			{
+				"content": "fulfill",
+				"key": "C"
+			},
+			{
+				"content": "mention",
+				"key": "D"
+			}
+		],
+		"correct_answer": "C"
+	},
+	{
+		"id": 14,
+		"question": "Department store managers have asked.................. not to bring food or beverages into the store.",
+		"answers": [
+			{
+				"content": "shoppers",
+				"key": "A"
+			},
+			{
+				"content": "shopping",
+				"key": "B"
+			},
+			{
+				"content": "to shop",
+				"key": "C"
+			},
+			{
+				"content": "shopper",
+				"key": "D"
+			}
+		],
+		"correct_answer": "A"
+	},
+	{
+		"id": 15,
+		"question": "When the copying process is.............. , a small \"Done\" window appears on the computer screen.",
+		"answers": [
+			{
+				"content": "total",
+				"key": "A"
+			},
+			{
+				"content": "entire",
+				"key": "B"
+			},
+			{
+				"content": "complete",
+				"key": "C"
+			},
+			{
+				"content": "whole",
+				"key": "D"
+			}
+		],
+		"correct_answer": "C"
+	},
+	{
+		"id": 16,
+		"question": "All Seneca area residents are requested to clean the recycling bins.................... with hot, soapy water.",
+		"answers": [
+			{
+				"content": "periodic",
+				"key": "A"
+			},
+			{
+				"content": "periodically",
+				"key": "B"
+			},
+			{
+				"content": "periodical",
+				"key": "C"
+			},
+			{
+				"content": "period",
+				"key": "D"
+			}
+		],
+		"correct_answer": "B"
+	},
+	{
+		"id": 17,
+		"question": "Retail properties in the downtown area generally stay on the.................... for periods of three to six weeks before they are sold.",
+		"answers": [
+			{
+				"content": "sale",
+				"key": "A"
+			},
+			{
+				"content": "place",
+				"key": "B"
+			},
+			{
+				"content": "market",
+				"key": "C"
+			},
+			{
+				"content": "advertisement",
+				"key": "D"
+			}
+		],
+		"correct_answer": "C"
+	},
+	{
+		"id": 18,
+		"question": "Patients who wish to reschedule their................... must give at least 24 hours advance notice.",
+		"answers": [
+			{
+				"content": "appointments",
+				"key": "A"
+			},
+			{
+				"content": "positions",
+				"key": "B"
+			},
+			{
+				"content": "assignments",
+				"key": "C"
+			},
+			{
+				"content": "subscriptions",
+				"key": "D"
+			}
+		],
+		"correct_answer": "A"
+	},
+	{
+		"id": 19,
+		"question": "All shipments arrive at the receiving dock, where a warehouse worker checks................ tracking labels.",
+		"answers": [
+			{
+				"content": "theirs",
+				"key": "A"
+			},
+			{
+				"content": "they",
+				"key": "B"
+			},
+			{
+				"content": "them",
+				"key": "C"
+			},
+			{
+				"content": "their",
+				"key": "D"
+			}
+		],
+		"correct_answer": "D"
+	},
+	{
+		"id": 20,
+		"question": "Because this document contains conﬁdential information, please keep it in a ................location.",
+		"answers": [
+			{
+				"content": "cautious",
+				"key": "A"
+			},
+			{
+				"content": "secure",
+				"key": "B"
+			},
+			{
+				"content": "distinguished",
+				"key": "C"
+			},
+			{
+				"content": "strict",
+				"key": "D"
+			}
+		],
+		"correct_answer": "B"
+	},
+	{
+		"id": 21,
+		"question": "Fred's superb................. to detail is his best attribute as a graphic artist.",
+		"answers": [
+			{
+				"content": "attends",
+				"key": "A"
+			},
+			{
+				"content": "attended",
+				"key": "B"
+			},
+			{
+				"content": "attendant",
+				"key": "C"
+			},
+			{
+				"content": "attention",
+				"key": "D"
+			}
+		],
+		"correct_answer": "D"
+	},
+	{
+		"id": 22,
+		"question": "Please indicate on the envelope whetheryou would prefer regular.............. deluxe photo processing for your film.",
+		"answers": [
+			{
+				"content": "so",
+				"key": "A"
+			},
+			{
+				"content": "nor",
+				"key": "B"
+			},
+			{
+				"content": "and",
+				"key": "C"
+			},
+			{
+				"content": "or",
+				"key": "D"
+			}
+		],
+		"correct_answer": "D"
+	},
+	{
+		"id": 23,
+		"question": "The decision to hire .................help was based largely on the concerns expressed by the employees.",
+		"answers": [
+			{
+				"content": "addition",
+				"key": "A"
+			},
+			{
+				"content": "additions",
+				"key": "B"
+			},
+			{
+				"content": "additional",
+				"key": "C"
+			},
+			{
+				"content": "additionally",
+				"key": "D"
+			}
+		],
+		"correct_answer": "C"
+	},
+	{
+		"id": 24,
+		"question": "National Bank officials announced that they have taken the necessary steps to................ another computer system failure.",
+		"answers": [
+			{
+				"content": "upgrade",
+				"key": "A"
+			},
+			{
+				"content": "ignore",
+				"key": "B"
+			},
+			{
+				"content": "prevent",
+				"key": "C"
+			},
+			{
+				"content": "improve",
+				"key": "D"
+			}
+		],
+		"correct_answer": "C"
+	},
+	{
+		"id": 25,
+		"question": "All............... to the auto production plant must register at the security checkpoint before entering.",
+		"answers": [
+			{
+				"content": "visit",
+				"key": "A"
+			},
+			{
+				"content": "visitation",
+				"key": "B"
+			},
+			{
+				"content": "visitors",
+				"key": "C"
+			},
+			{
+				"content": "visiting",
+				"key": "D"
+			}
+		],
+		"correct_answer": "C"
+	},
+	{
+		"id": 26,
+		"question": "Each month, we will select ﬁve outstanding employees to be honored,.................. their exceptional contributions to the company's performance.",
+		"answers": [
+			{
+				"content": "for",
+				"key": "A"
+			},
+			{
+				"content": "at",
+				"key": "B"
+			},
+			{
+				"content": "across",
+				"key": "C"
+			},
+			{
+				"content": "over",
+				"key": "D"
+			}
+		],
+		"correct_answer": "A"
+	},
+	{
+		"id": 27,
+		"question": "According to StarWatch magazine, singer-songwriter Kylie Norton has announced her upcoming................. in a charity concert.",
+		"answers": [
+			{
+				"content": "participate",
+				"key": "A"
+			},
+			{
+				"content": "participated",
+				"key": "B"
+			},
+			{
+				"content": "participating",
+				"key": "C"
+			},
+			{
+				"content": "participation",
+				"key": "D"
+			}
+		],
+		"correct_answer": "D"
+	},
+	{
+		"id": 28,
+		"question": "Customers who cannot call the service department during normal business hours may leave a message .......................our answering service.",
+		"answers": [
+			{
+				"content": "with",
+				"key": "A"
+			},
+			{
+				"content": "off",
+				"key": "B"
+			},
+			{
+				"content": "from",
+				"key": "C"
+			},
+			{
+				"content": "by",
+				"key": "D"
+			}
+		],
+		"correct_answer": "A"
+	},
+	{
+		"id": 29,
+		"question": "Applicants for the position of store manager must have at least five years of experience in............ sales.",
+		"answers": [
+			{
+				"content": "retailing",
+				"key": "A"
+			},
+			{
+				"content": "retailer",
+				"key": "B"
+			},
+			{
+				"content": "retailed",
+				"key": "C"
+			},
+			{
+				"content": "retail",
+				"key": "D"
+			}
+		],
+		"correct_answer": "D"
+	},
+	{
+		"id": 30,
+		"question": "Our company believes that employees should always work hard, yet they must .................have time for their families.",
+		"answers": [
+			{
+				"content": "altogether",
+				"key": "A"
+			},
+			{
+				"content": "also",
+				"key": "B"
+			},
+			{
+				"content": "alone",
+				"key": "C"
+			},
+			{
+				"content": "almost",
+				"key": "D"
+			}
+		],
+		"correct_answer": "B"
+	},
+	{
+		"id": 31,
+		"question": "Our store offers a complete line of computer software packages for............personal and business applications.",
+		"answers": [
+			{
+				"content": "every",
+				"key": "A"
+			},
+			{
+				"content": "both",
+				"key": "B"
+			},
+			{
+				"content": "either",
+				"key": "C"
+			},
+			{
+				"content": "whether",
+				"key": "D"
+			}
+		],
+		"correct_answer": "B"
+	},
+	{
+		"id": 32,
+		"question": "According to the commerce report released today, retail sales in apparel declined in August after a signiﬁcant......................in July.",
+		"answers": [
+			{
+				"content": "increase",
+				"key": "A"
+			},
+			{
+				"content": "impression",
+				"key": "B"
+			},
+			{
+				"content": "access",
+				"key": "C"
+			},
+			{
+				"content": "accent",
+				"key": "D"
+			}
+		],
+		"correct_answer": "A"
+	},
+	{
+		"id": 33,
+		"question": "The president of Tennom Advertising............... announces the cancellation of plans to open an office in Toronto.",
+		"answers": [
+			{
+				"content": "regretful",
+				"key": "A"
+			},
+			{
+				"content": "regretfully",
+				"key": "B"
+			},
+			{
+				"content": "regretting",
+				"key": "C"
+			},
+			{
+				"content": "regretted",
+				"key": "D"
+			}
+		],
+		"correct_answer": "B"
+	},
+	{
+		"id": 34,
+		"question": "The international Society of Economists will..................... leadership to develop and launch a collection of electronic journals.",
+		"answers": [
+			{
+				"content": "remain",
+				"key": "A"
+			},
+			{
+				"content": "serve",
+				"key": "B"
+			},
+			{
+				"content": "grant",
+				"key": "C"
+			},
+			{
+				"content": "provide",
+				"key": "D"
+			}
+		],
+		"correct_answer": "D"
+	},
+	{
+		"id": 35,
+		"question": "After the current model year, the automobile manufacturer CFG................... three older models and introduce two new ones.",
+		"answers": [
+			{
+				"content": "to discontinue",
+				"key": "A"
+			},
+			{
+				"content": "will discontinue",
+				"key": "B"
+			},
+			{
+				"content": "discontinued",
+				"key": "C"
+			},
+			{
+				"content": "have discontinued",
+				"key": "D"
+			}
+		],
+		"correct_answer": "B"
+	},
+	{
+		"id": 36,
+		"question": "......................for the money management seminar will be forwarded to all the managers tomorrow.",
+		"answers": [
+			{
+				"content": "Invite",
+				"key": "A"
+			},
+			{
+				"content": "Invitations",
+				"key": "B"
+			},
+			{
+				"content": "Inviting",
+				"key": "C"
+			},
+			{
+				"content": "Invitation",
+				"key": "D"
+			}
+		],
+		"correct_answer": "B"
+	},
+	{
+		"id": 37,
+		"question": "The employee-of-the-year prizes will be awarded to employees who demonstrated........................ contribution to the company's overall sales.",
+		"answers": [
+			{
+				"content": "whole",
+				"key": "A"
+			},
+			{
+				"content": "inclusive",
+				"key": "B"
+			},
+			{
+				"content": "exceptional",
+				"key": "C"
+			},
+			{
+				"content": "multiple",
+				"key": "D"
+			}
+		],
+		"correct_answer": "C"
+	},
+	{
+		"id": 38,
+		"question": "Those who have questions concerning fringe benefits are advised to consult..................employee handbook.",
+		"answers": [
+			{
+				"content": "their",
+				"key": "A"
+			},
+			{
+				"content": "they",
+				"key": "B"
+			},
+			{
+				"content": "themselves",
+				"key": "C"
+			},
+			{
+				"content": "theirs",
+				"key": "D"
+			}
+		],
+		"correct_answer": "A"
+	},
+	{
+		"id": 39,
+		"question": "The summary contains not only a technical................but also solutions to adverse effects of urban renewal developments.",
+		"answers": [
+			{
+				"content": "description",
+				"key": "A"
+			},
+			{
+				"content": "attention",
+				"key": "B"
+			},
+			{
+				"content": "information",
+				"key": "C"
+			},
+			{
+				"content": "mistake",
+				"key": "D"
+			}
+		],
+		"correct_answer": "A"
+	},
+	{
+		"id": 40,
+		"question": "The conference's keynote speaker addressed............................impacts of digital technology on the current music industry.",
+		"answers": [
+			{
+				"content": "variety",
+				"key": "A"
+			},
+			{
+				"content": "variably",
+				"key": "B"
+			},
+			{
+				"content": "variation",
+				"key": "C"
+			},
+			{
+				"content": "various",
+				"key": "D"
+			}
+		],
+		"correct_answer": "D"
+	},
+	{
+		"id": 41,
+		"question": "Documents with a secret nature are.............retained in each director's safety deposit box.",
+		"answers": [
+			{
+				"content": "relatively",
+				"key": "A"
+			},
+			{
+				"content": "slightly",
+				"key": "B"
+			},
+			{
+				"content": "usually",
+				"key": "C"
+			},
+			{
+				"content": "vaguely",
+				"key": "D"
+			}
+		],
+		"correct_answer": "C"
+	},
+	{
+		"id": 42,
+		"question": "The fitness club.......a steadily increasing number of customers and is eager to develop new programs.",
+		"answers": [
+			{
+				"content": "see",
+				"key": "A"
+			},
+			{
+				"content": "seen",
+				"key": "B"
+			},
+			{
+				"content": "seeing",
+				"key": "C"
+			},
+			{
+				"content": "has seen",
+				"key": "D"
+			}
+		],
+		"correct_answer": "D"
+	},
+	{
+		"id": 43,
+		"question": "The job fair held in the City Center last week is considered the most ......................one so far, with over 3,000 people in attendance.",
+		"answers": [
+			{
+				"content": "overall '",
+				"key": "A"
+			},
+			{
+				"content": "successful",
+				"key": "B"
+			},
+			{
+				"content": "wealthy",
+				"key": "C"
+			},
+			{
+				"content": "delighted",
+				"key": "D"
+			}
+		],
+		"correct_answer": "B"
+	},
+	{
+		"id": 44,
+		"question": "The efects of affordable housing............ in rural areas will be discussed at the conference.",
+		"answers": [
+			{
+				"content": "develops",
+				"key": "A"
+			},
+			{
+				"content": "developing",
+				"key": "B"
+			},
+			{
+				"content": "development",
+				"key": "C"
+			},
+			{
+				"content": "developed",
+				"key": "D"
+			}
+		],
+		"correct_answer": "C"
+	},
+	{
+		"id": 45,
+		"question": "Because the annual budget report must be submitted ............. the end of the month, employees are busy calculating figures.",
+		"answers": [
+			{
+				"content": "on",
+				"key": "A"
+			},
+			{
+				"content": "between",
+				"key": "B"
+			},
+			{
+				"content": "by",
+				"key": "C"
+			},
+			{
+				"content": "except",
+				"key": "D"
+			}
+		],
+		"correct_answer": "C"
+	},
+	{
+		"id": 46,
+		"question": "Even though assigned tasks are somewhat complex, we will have to complete them before we ..............for the day.",
+		"answers": [
+			{
+				"content": "leave",
+				"key": "A"
+			},
+			{
+				"content": "leaving",
+				"key": "B"
+			},
+			{
+				"content": "to leave",
+				"key": "C"
+			},
+			{
+				"content": "have left",
+				"key": "D"
+			}
+		],
+		"correct_answer": "A"
+	},
+	{
+		"id": 47,
+		"question": "All workers are required to use the sheet provided to ..............their working hours and have their manager sign the form to verify the hours at the end of each day.",
+		"answers": [
+			{
+				"content": "practice",
+				"key": "A"
+			},
+			{
+				"content": "rewind",
+				"key": "B"
+			},
+			{
+				"content": "record",
+				"key": "C"
+			},
+			{
+				"content": "attend",
+				"key": "D"
+			}
+		],
+		"correct_answer": "C"
+	},
+	{
+		"id": 48,
+		"question": "Even if residents in the area have shown strong............ to the project, the city government may not be hesitant to proceedwith it.",
+		"answers": [
+			{
+				"content": "resisting",
+				"key": "A"
+			},
+			{
+				"content": "resistant",
+				"key": "B"
+			},
+			{
+				"content": "resisted",
+				"key": "C"
+			},
+			{
+				"content": "resistance",
+				"key": "D"
+			}
+		],
+		"correct_answer": "D"
+	},
+	{
+		"id": 49,
+		"question": "The team members have the same opinions on the matter............... they shared the same information.",
+		"answers": [
+			{
+				"content": "following",
+				"key": "A"
+			},
+			{
+				"content": "more than",
+				"key": "B"
+			},
+			{
+				"content": "because",
+				"key": "C"
+			},
+			{
+				"content": "unless",
+				"key": "D"
+			}
+		],
+		"correct_answer": "C"
+	},
+	{
+		"id": 50,
+		"question": "The two divisions have unveiled ....................plan to set aside millions of dollars to invest in a very lucrative field.",
+		"answers": [
+			{
+				"content": "they",
+				"key": "A"
+			},
+			{
+				"content": "them",
+				"key": "B"
+			},
+			{
+				"content": "their",
+				"key": "C"
+			},
+			{
+				"content": "those",
+				"key": "D"
+			}
+		],
+		"correct_answer": "C"
+	},
+	{
+		"id": 51,
+		"question": ".......................proficiency in German would be of much help, it is not a requirement for the advertised position.",
+		"answers": [
+			{
+				"content": "Otherwise",
+				"key": "A"
+			},
+			{
+				"content": "Despite",
+				"key": "B"
+			},
+			{
+				"content": "Regarding",
+				"key": "C"
+			},
+			{
+				"content": "Although",
+				"key": "D"
+			}
+		],
+		"correct_answer": "D"
+	},
+	{
+		"id": 52,
+		"question": "We had to spend the whole month searching for better solutions, and ...................... customers were impressed by our efforts.",
+		"answers": [
+			{
+				"content": "fortunate",
+				"key": "A"
+			},
+			{
+				"content": "fortunes",
+				"key": "B"
+			},
+			{
+				"content": "fortune",
+				"key": "C"
+			},
+			{
+				"content": "fortunately",
+				"key": "D"
+			}
+		],
+		"correct_answer": "A"
+	},
+	{
+		"id": 53,
+		"question": "The purchasing department ..............the drastic changes to the purchasing practice with outside suppliers.",
+		"answers": [
+			{
+				"content": "involved",
+				"key": "A"
+			},
+			{
+				"content": "agreed",
+				"key": "B"
+			},
+			{
+				"content": "announced",
+				"key": "C"
+			},
+			{
+				"content": "maintained",
+				"key": "D"
+			}
+		],
+		"correct_answer": "C"
+	},
+	{
+		"id": 54,
+		"question": "........................anyone wish to access the information on the status of his or her order, the password should be entered.",
+		"answers": [
+			{
+				"content": "lf",
+				"key": "A"
+			},
+			{
+				"content": "Should",
+				"key": "B"
+			},
+			{
+				"content": "Whether",
+				"key": "C"
+			},
+			{
+				"content": "As though",
+				"key": "D"
+			}
+		],
+		"correct_answer": "A"
+	},
+	{
+		"id": 55,
+		"question": "The..........of the internship program are to help job seekers strengthen their professional skills and make them suitable for careers they are looking for.",
+		"answers": [
+			{
+				"content": "destinations",
+				"key": "A"
+			},
+			{
+				"content": "treatments",
+				"key": "B"
+			},
+			{
+				"content": "goals",
+				"key": "C"
+			},
+			{
+				"content": "opinions",
+				"key": "D"
+			}
+		],
+		"correct_answer": "C"
+	},
+	{
+		"id": 56,
+		"question": "The more we spent with the sales team, the more ............we were with their innovative marketing skills.",
+		"answers": [
+			{
+				"content": "impression",
+				"key": "A"
+			},
+			{
+				"content": "impress",
+				"key": "B"
+			},
+			{
+				"content": "impresses",
+				"key": "C"
+			},
+			{
+				"content": "impressed",
+				"key": "D"
+			}
+		],
+		"correct_answer": "C"
+	},
+	{
+		"id": 57,
+		"question": ".................... none of the participants has showed any interest, numerous outdoor activities have to be cancelled.",
+		"answers": [
+			{
+				"content": "Whether",
+				"key": "A"
+			},
+			{
+				"content": "Since",
+				"key": "B"
+			},
+			{
+				"content": "For",
+				"key": "C"
+			},
+			{
+				"content": "Which",
+				"key": "D"
+			}
+		],
+		"correct_answer": "B"
+	},
+	{
+		"id": 58,
+		"question": "Customers......................wish to return merchandise within 7 days of purchase must present the valid receipt to the store.",
+		"answers": [
+			{
+				"content": "who",
+				"key": "A"
+			},
+			{
+				"content": "when",
+				"key": "B"
+			},
+			{
+				"content": "what",
+				"key": "C"
+			},
+			{
+				"content": "whom",
+				"key": "D"
+			}
+		],
+		"correct_answer": "A"
+	},
+	{
+		"id": 59,
+		"question": "All laboratory employees make it a point to take every............ to avoid potential hazards.",
+		"answers": [
+			{
+				"content": "precaution",
+				"key": "A"
+			},
+			{
+				"content": "advice",
+				"key": "B"
+			},
+			{
+				"content": "rule",
+				"key": "C"
+			},
+			{
+				"content": "idea",
+				"key": "D"
+			}
+		],
+		"correct_answer": "A"
+	},
+	{
+		"id": 60,
+		"question": "The manager said that it is..................to test emergency equipment frequently to avoid any malfunction.",
+		"answers": [
+			{
+				"content": "appropriate",
+				"key": "A"
+			},
+			{
+				"content": "appropriateness",
+				"key": "B"
+			},
+			{
+				"content": "appropriately",
+				"key": "C"
+			},
+			{
+				"content": "most appropriately",
+				"key": "D"
+			}
+		],
+		"correct_answer": "A"
+	},
+	{
+		"id": 61,
+		"question": "It is necessary to.............. a thorough survey in order for us to obtain highly desirable sites for our new headquarters.",
+		"answers": [
+			{
+				"content": "detain",
+				"key": "A"
+			},
+			{
+				"content": "associate",
+				"key": "B"
+			},
+			{
+				"content": "conduct",
+				"key": "C"
+			},
+			{
+				"content": "foresee",
+				"key": "D"
+			}
+		],
+		"correct_answer": "C"
+	},
+	{
+		"id": 62,
+		"question": "Ms. Walters was ...... to make a presentation on how to increase revenue when I entered the room.",
+		"answers": [
+			{
+				"content": "nearly",
+				"key": "A"
+			},
+			{
+				"content": "off",
+				"key": "B"
+			},
+			{
+				"content": "close",
+				"key": "C"
+			},
+			{
+				"content": "about",
+				"key": "D"
+			}
+		],
+		"correct_answer": "D"
+	},
+	{
+		"id": 63,
+		"question": "Mr. Lee takes care of several ...............tasks, such as sorting papers and filing documents in the cabinet.",
+		"answers": [
+			{
+				"content": "favorable",
+				"key": "A"
+			},
+			{
+				"content": "routine",
+				"key": "B"
+			},
+			{
+				"content": "sincere",
+				"key": "C"
+			},
+			{
+				"content": "recent",
+				"key": "D"
+			}
+		],
+		"correct_answer": "B"
+	},
+	{
+		"id": 64,
+		"question": "................her hard work and commitment to the company, Ms. Ramirez was promoted to the head of the public relations department.",
+		"answers": [
+			{
+				"content": "Due to",
+				"key": "A"
+			},
+			{
+				"content": "While",
+				"key": "B"
+			},
+			{
+				"content": "In that",
+				"key": "C"
+			},
+			{
+				"content": "ln case",
+				"key": "D"
+			}
+		],
+		"correct_answer": "A"
+	},
+	{
+		"id": 65,
+		"question": "The unexpected operating complexity was more serious than ,........anticipated.",
+		"answers": [
+			{
+				"content": "origin",
+				"key": "A"
+			},
+			{
+				"content": "original",
+				"key": "B"
+			},
+			{
+				"content": "originally",
+				"key": "C"
+			},
+			{
+				"content": "originated",
+				"key": "D"
+			}
+		],
+		"correct_answer": "C"
+	},
+	{
+		"id": 66,
+		"question": "Due to ........................ fuel prices, the company has decided to add a surcharge to all deliveries.",
+		"answers": [
+			{
+				"content": "rise",
+				"key": "A"
+			},
+			{
+				"content": "arisen",
+				"key": "B"
+			},
+			{
+				"content": "rose",
+				"key": "C"
+			},
+			{
+				"content": "rising",
+				"key": "D"
+			}
+		],
+		"correct_answer": "D"
+	},
+	{
+		"id": 67,
+		"question": "As the company's strongest competitor released a new line of fall clothing, NTR Inc. moved..............to introduce its new leather jackets.",
+		"answers": [
+			{
+				"content": "regularly",
+				"key": "A"
+			},
+			{
+				"content": "quickly",
+				"key": "B"
+			},
+			{
+				"content": "softly",
+				"key": "C"
+			},
+			{
+				"content": "tiredly",
+				"key": "D"
+			}
+		],
+		"correct_answer": "B"
+	},
+	{
+		"id": 68,
+		"question": "The enclosed documents summarize ..............changes to the existing overtime regulations.",
+		"answers": [
+			{
+				"content": "propose",
+				"key": "A"
+			},
+			{
+				"content": "proposed",
+				"key": "B"
+			},
+			{
+				"content": "proposes",
+				"key": "C"
+			},
+			{
+				"content": "to proposing",
+				"key": "D"
+			}
+		],
+		"correct_answer": "B"
+	},
+	{
+		"id": 69,
+		"question": "................ regular inspections, accidental system problems arise from time to time.",
+		"answers": [
+			{
+				"content": "ln spite of",
+				"key": "A"
+			},
+			{
+				"content": "Prior to",
+				"key": "B"
+			},
+			{
+				"content": "However",
+				"key": "C"
+			},
+			{
+				"content": "Yet",
+				"key": "D"
+			}
+		],
+		"correct_answer": "A"
+	},
+	{
+		"id": 70,
+		"question": "Applicants must possess a master of business administration or ................experience in a related field.",
+		"answers": [
+			{
+				"content": "compare",
+				"key": "A"
+			},
+			{
+				"content": "compared",
+				"key": "B"
+			},
+			{
+				"content": "comparable",
+				"key": "C"
+			},
+			{
+				"content": "comparing",
+				"key": "D"
+			}
+		],
+		"correct_answer": "C"
+	},
+	{
+		"id": 71,
+		"question": "The recruitment advertising meeting that was scheduled for tomorrow has been.............until next week.",
+		"answers": [
+			{
+				"content": "abbreviated",
+				"key": "A"
+			},
+			{
+				"content": "terminated",
+				"key": "B"
+			},
+			{
+				"content": "scheduled",
+				"key": "C"
+			},
+			{
+				"content": "postponed",
+				"key": "D"
+			}
+		],
+		"correct_answer": "D"
+	},
+	{
+		"id": 72,
+		"question": "The expansion of the natural history museum is most .........................the cause of significant revenue increases.",
+		"answers": [
+			{
+				"content": "probabilities",
+				"key": "A"
+			},
+			{
+				"content": "probability",
+				"key": "B"
+			},
+			{
+				"content": "probable",
+				"key": "C"
+			},
+			{
+				"content": "probably",
+				"key": "D"
+			}
+		],
+		"correct_answer": "D"
+	},
+	{
+		"id": 73,
+		"question": "Information on events occurring in the theater .................the year is available through our website.",
+		"answers": [
+			{
+				"content": "into",
+				"key": "A"
+			},
+			{
+				"content": "throughout",
+				"key": "B"
+			},
+			{
+				"content": "on",
+				"key": "C"
+			},
+			{
+				"content": "as",
+				"key": "D"
+			}
+		],
+		"correct_answer": "B"
+	},
+	{
+		"id": 74,
+		"question": "Through the Internet people are discovering new ways to share relevant information with.............",
+		"answers": [
+			{
+				"content": "the other",
+				"key": "A"
+			},
+			{
+				"content": "another",
+				"key": "B"
+			},
+			{
+				"content": "other",
+				"key": "C"
+			},
+			{
+				"content": "one another",
+				"key": "D"
+			}
+		],
+		"correct_answer": "D"
+	},
+	{
+		"id": 75,
+		"question": "The library has announced a new ................that all borrowed books must be returned 5 business days from the checkout date.",
+		"answers": [
+			{
+				"content": "accommodation",
+				"key": "A"
+			},
+			{
+				"content": "policy",
+				"key": "B"
+			},
+			{
+				"content": "handling",
+				"key": "C"
+			},
+			{
+				"content": "measure",
+				"key": "D"
+			}
+		],
+		"correct_answer": "B"
+	},
+	{
+		"id": 76,
+		"question": "Mr. Kurt Spienza appears to be the only person in our team who can finish the survey by...........................",
+		"answers": [
+			{
+				"content": "he",
+				"key": "A"
+			},
+			{
+				"content": "him",
+				"key": "B"
+			},
+			{
+				"content": "his",
+				"key": "C"
+			},
+			{
+				"content": "himself",
+				"key": "D"
+			}
+		],
+		"correct_answer": "D"
+	},
+	{
+		"id": 77,
+		"question": "All the storage rooms are scheduled to undergo renovations and ............ closed for several days next week.",
+		"answers": [
+			{
+				"content": "will be",
+				"key": "A"
+			},
+			{
+				"content": "was",
+				"key": "B"
+			},
+			{
+				"content": "are",
+				"key": "C"
+			},
+			{
+				"content": "has been",
+				"key": "D"
+			}
+		],
+		"correct_answer": "A"
+	},
+	{
+		"id": 78,
+		"question": "Many science majors enter graduate school ..........after completing a bachelor of science degree.",
+		"answers": [
+			{
+				"content": "directly",
+				"key": "A"
+			},
+			{
+				"content": "direct",
+				"key": "B"
+			},
+			{
+				"content": "directed",
+				"key": "C"
+			},
+			{
+				"content": "direction",
+				"key": "D"
+			}
+		],
+		"correct_answer": "A"
+	},
+	{
+		"id": 79,
+		"question": "Many companies interviewed plan to .................. more personnel, while 20 percent expect to reduce their payrolls.",
+		"answers": [
+			{
+				"content": "reply",
+				"key": "A"
+			},
+			{
+				"content": "detect",
+				"key": "B"
+			},
+			{
+				"content": "construct",
+				"key": "C"
+			},
+			{
+				"content": "hire",
+				"key": "D"
+			}
+		],
+		"correct_answer": "D"
+	},
+	{
+		"id": 80,
+		"question": "lt seems that laborers in underdeveloped countries would rather have their children help................ at work than enroll them in school",
+		"answers": [
+			{
+				"content": "they",
+				"key": "A"
+			},
+			{
+				"content": "them",
+				"key": "B"
+			},
+			{
+				"content": "themselves",
+				"key": "C"
+			},
+			{
+				"content": "their",
+				"key": "D"
+			}
+		],
+		"correct_answer": "B"
+	},
+	{
+		"id": 81,
+		"question": "A new approach to information asset protection will be covered in the forthcoming March............ of the magazine.",
+		"answers": [
+			{
+				"content": "issue",
+				"key": "A"
+			},
+			{
+				"content": "condition",
+				"key": "B"
+			},
+			{
+				"content": "price",
+				"key": "C"
+			},
+			{
+				"content": "promise",
+				"key": "D"
+			}
+		],
+		"correct_answer": "A"
+	},
+	{
+		"id": 82,
+		"question": "Customers who purchase more than 500 dollars worth of items can request an HDTV cable box at no .............. charge.",
+		"answers": [
+			{
+				"content": "additional",
+				"key": "A"
+			},
+			{
+				"content": "addition",
+				"key": "B"
+			},
+			{
+				"content": "adding",
+				"key": "C"
+			},
+			{
+				"content": "additionally",
+				"key": "D"
+			}
+		],
+		"correct_answer": "A"
+	},
+	{
+		"id": 83,
+		"question": "........................remain complicated economic problems to be resolved, while the economic conditions have been good.",
+		"answers": [
+			{
+				"content": "They",
+				"key": "A"
+			},
+			{
+				"content": "It",
+				"key": "B"
+			},
+			{
+				"content": "There",
+				"key": "C"
+			},
+			{
+				"content": "That",
+				"key": "D"
+			}
+		],
+		"correct_answer": "C"
+	},
+	{
+		"id": 84,
+		"question": "Mr. Garry Noxon in accounting was.................warned about having too many numerical errors in the budget report.",
+		"answers": [
+			{
+				"content": "repeat",
+				"key": "A"
+			},
+			{
+				"content": "repeatedly",
+				"key": "B"
+			},
+			{
+				"content": "repeater",
+				"key": "C"
+			},
+			{
+				"content": "repetition",
+				"key": "D"
+			}
+		],
+		"correct_answer": "B"
+	},
+	{
+		"id": 85,
+		"question": "Employers............... in obtaining information concerning grants for technician certification may contact us at the e mail address below.",
+		"answers": [
+			{
+				"content": "interested",
+				"key": "A"
+			},
+			{
+				"content": "listed",
+				"key": "B"
+			},
+			{
+				"content": "hopeful",
+				"key": "C"
+			},
+			{
+				"content": "enclosed",
+				"key": "D"
+			}
+		],
+		"correct_answer": "A"
+	},
+	{
+		"id": 86,
+		"question": "According to many.......................of the industry, the majority of small-sized firms are hoping to enter into lucrative businesses.",
+		"answers": [
+			{
+				"content": "survey",
+				"key": "A"
+			},
+			{
+				"content": "surveys",
+				"key": "B"
+			},
+			{
+				"content": "surbeying",
+				"key": "C"
+			},
+			{
+				"content": "surveyed",
+				"key": "D"
+			}
+		],
+		"correct_answer": "B"
+	},
+	{
+		"id": 87,
+		"question": "During the one-week promotional period, we offer all the visitors and customers 10 dollars worth of kitchen appliances ..............free of charge.",
+		"answers": [
+			{
+				"content": "extremely",
+				"key": "A"
+			},
+			{
+				"content": "exclusively",
+				"key": "B"
+			},
+			{
+				"content": "continually",
+				"key": "C"
+			},
+			{
+				"content": "completely",
+				"key": "D"
+			}
+		],
+		"correct_answer": "D"
+	},
+	{
+		"id": 88,
+		"question": "The first step in preparing a fairly ................ presentation is to do your research thoroughly on your topic.",
+		"answers": [
+			{
+				"content": "informative",
+				"key": "A"
+			},
+			{
+				"content": "inform",
+				"key": "B"
+			},
+			{
+				"content": "information",
+				"key": "C"
+			},
+			{
+				"content": "informer",
+				"key": "D"
+			}
+		],
+		"correct_answer": "A"
+	},
+	{
+		"id": 89,
+		"question": "...................understaffed and under tight budget, 911 centers are struggling to adequately provide emergency assistance to the citizens.",
+		"answers": [
+			{
+				"content": "Yet",
+				"key": "A"
+			},
+			{
+				"content": "Meanwhile",
+				"key": "B"
+			},
+			{
+				"content": "But",
+				"key": "C"
+			},
+			{
+				"content": "Although",
+				"key": "D"
+			}
+		],
+		"correct_answer": "D"
+	},
+	{
+		"id": 90,
+		"question": "Applicants for the managerial position................. to possess high levels of motivation along with basic computer skills.",
+		"answers": [
+			{
+				"content": "are required",
+				"key": "A"
+			},
+			{
+				"content": "require",
+				"key": "B"
+			},
+			{
+				"content": "requires",
+				"key": "C"
+			},
+			{
+				"content": "has required",
+				"key": "D"
+			}
+		],
+		"correct_answer": "A"
+	},
+	{
+		"id": 91,
+		"question": "The applications submitted will be accepted .......... accompanied by photo identification.",
+		"answers": [
+			{
+				"content": "only if",
+				"key": "A"
+			},
+			{
+				"content": "until",
+				"key": "B"
+			},
+			{
+				"content": "not only",
+				"key": "C"
+			},
+			{
+				"content": "since",
+				"key": "D"
+			}
+		],
+		"correct_answer": "A"
+	},
+	{
+		"id": 92,
+		"question": "It is likely that .............of the annual conference will reach an all-time high this year, with more than 1,000 people planning to attend.",
+		"answers": [
+			{
+				"content": "attendant",
+				"key": "A"
+			},
+			{
+				"content": "attendance",
+				"key": "B"
+			},
+			{
+				"content": "attended",
+				"key": "C"
+			},
+			{
+				"content": "attendee",
+				"key": "D"
+			}
+		],
+		"correct_answer": "B"
+	},
+	{
+		"id": 93,
+		"question": "Despite .........efforts and partial success for the last few years, the unemployment rate is still on the rise,",
+		"answers": [
+			{
+				"content": "proficient",
+				"key": "A"
+			},
+			{
+				"content": "considerable",
+				"key": "B"
+			},
+			{
+				"content": "secondary",
+				"key": "C"
+			},
+			{
+				"content": "present",
+				"key": "D"
+			}
+		],
+		"correct_answer": "B"
+	},
+	{
+		"id": 94,
+		"question": "A detailed quotation on the ongoing ..............will be provided for free any time upon request.",
+		"answers": [
+			{
+				"content": "maintaining",
+				"key": "A"
+			},
+			{
+				"content": "maintenance",
+				"key": "B"
+			},
+			{
+				"content": "maintained",
+				"key": "C"
+			},
+			{
+				"content": "maintains",
+				"key": "D"
+			}
+		],
+		"correct_answer": "B"
+	},
+	{
+		"id": 95,
+		"question": "Attempts to...........congestion during peak hours are being made, but seem to prove unfruitful at the moment.",
+		"answers": [
+			{
+				"content": "demonstrate",
+				"key": "A"
+			},
+			{
+				"content": "decline",
+				"key": "B"
+			},
+			{
+				"content": "face",
+				"key": "C"
+			},
+			{
+				"content": "ease",
+				"key": "D"
+			}
+		],
+		"correct_answer": "D"
+	},
+	{
+		"id": 96,
+		"question": "All the important files were organized first by color and ...............alphabetized by title and name.",
+		"answers": [
+			{
+				"content": "since",
+				"key": "A"
+			},
+			{
+				"content": "then",
+				"key": "B"
+			},
+			{
+				"content": "here",
+				"key": "C"
+			},
+			{
+				"content": "much",
+				"key": "D"
+			}
+		],
+		"correct_answer": "B"
+	},
+	{
+		"id": 97,
+		"question": "Pedestrians and motorists are advised to obey the traffic signs posted ................Blackroad.",
+		"answers": [
+			{
+				"content": "against",
+				"key": "A"
+			},
+			{
+				"content": "except",
+				"key": "B"
+			},
+			{
+				"content": "upon",
+				"key": "C"
+			},
+			{
+				"content": "throughout",
+				"key": "D"
+			}
+		],
+		"correct_answer": "D"
+	},
+	{
+		"id": 98,
+		"question": "The customer service department is responsible for fulfilling ................... from the public and has to fonivard them to the chief financial officer.",
+		"answers": [
+			{
+				"content": "requests",
+				"key": "A"
+			},
+			{
+				"content": "request",
+				"key": "B"
+			},
+			{
+				"content": "requesting",
+				"key": "C"
+			},
+			{
+				"content": "requested",
+				"key": "D"
+			}
+		],
+		"correct_answer": "A"
+	},
+	{
+		"id": 99,
+		"question": "Editors are extremely busy proofreading, editing and compiling materials................ to publication date.",
+		"answers": [
+			{
+				"content": "suited",
+				"key": "A"
+			},
+			{
+				"content": "conductive",
+				"key": "B"
+			},
+			{
+				"content": "forward",
+				"key": "C"
+			},
+			{
+				"content": "prior",
+				"key": "D"
+			}
+		],
+		"correct_answer": "D"
+	},
+	{
+		"id": 100,
+		"question": "Customers have the right to ...........the order within 5 business days from the delivery of the product without providing reasons for the cancellation.",
+		"answers": [
+			{
+				"content": "weaken",
+				"key": "A"
+			},
+			{
+				"content": "invalidate",
+				"key": "B"
+			},
+			{
+				"content": "verify",
+				"key": "C"
+			},
+			{
+				"content": "weigh",
+				"key": "D"
+			}
+		],
+		"correct_answer": "B"
+	},
+	{
+		"id": 101,
+		"question": "As health care becomes................than it was a decade ago, companies are forced to spend more on benefits.",
+		"answers": [
+			{
+				"content": "as expensive",
+				"key": "A"
+			},
+			{
+				"content": "more expensive",
+				"key": "B"
+			},
+			{
+				"content": "so expensively",
+				"key": "C"
+			},
+			{
+				"content": "most expensively",
+				"key": "D"
+			}
+		],
+		"correct_answer": "B"
+	},
+	{
+		"id": 102,
+		"question": "The report on existing home sales showed an unexpected ..................in sales last year, but the number of unsold homes has increased.",
+		"answers": [
+			{
+				"content": "extension",
+				"key": "A"
+			},
+			{
+				"content": "production",
+				"key": "B"
+			},
+			{
+				"content": "grade",
+				"key": "C"
+			},
+			{
+				"content": "rise",
+				"key": "D"
+			}
+		],
+		"correct_answer": "D"
+	},
+	{
+		"id": 103,
+		"question": "Many researchers are doing research on how to reduce the time it takes............. and forget an accident.",
+		"answers": [
+			{
+				"content": "will overcome",
+				"key": "A"
+			},
+			{
+				"content": "be overcome",
+				"key": "B"
+			},
+			{
+				"content": "to overcome",
+				"key": "C"
+			},
+			{
+				"content": "has overcome",
+				"key": "D"
+			}
+		],
+		"correct_answer": "C"
+	},
+	{
+		"id": 104,
+		"question": "Accommodation costs and living........... will vary, depending on individual requirements and work locations.",
+		"answers": [
+			{
+				"content": "budget",
+				"key": "A"
+			},
+			{
+				"content": "prices",
+				"key": "B"
+			},
+			{
+				"content": "credits",
+				"key": "C"
+			},
+			{
+				"content": "expenses",
+				"key": "D"
+			}
+		],
+		"correct_answer": "D"
+	},
+	{
+		"id": 105,
+		"question": "Speakers should be prepared.......... their findings to the audience and be able to answer questions regarding them.",
+		"answers": [
+			{
+				"content": "has presented",
+				"key": "A"
+			},
+			{
+				"content": "presenting",
+				"key": "B"
+			},
+			{
+				"content": "present",
+				"key": "C"
+			},
+			{
+				"content": "to present",
+				"key": "D"
+			}
+		],
+		"correct_answer": "D"
+	},
+	{
+		"id": 106,
+		"question": "As real estate prices have.........................dramatically in recent years, buyers have cancelled new-home contracts",
+		"answers": [
+			{
+				"content": "fallen",
+				"key": "A"
+			},
+			{
+				"content": "refused",
+				"key": "B"
+			},
+			{
+				"content": "performed",
+				"key": "C"
+			},
+			{
+				"content": "acquired",
+				"key": "D"
+			}
+		],
+		"correct_answer": "A"
+	},
+	{
+		"id": 107,
+		"question": "For years, domestically produced movies have been gaining .................among people of all ages.",
+		"answers": [
+			{
+				"content": "elevation",
+				"key": "A"
+			},
+			{
+				"content": "mobility",
+				"key": "B"
+			},
+			{
+				"content": "belief",
+				"key": "C"
+			},
+			{
+				"content": "popularity",
+				"key": "D"
+			}
+		],
+		"correct_answer": "D"
+	},
+	{
+		"id": 108,
+		"question": "They are required to inform the human resources department when resigning due ...... a disagreement over company policy",
+		"answers": [
+			{
+				"content": "to",
+				"key": "A"
+			},
+			{
+				"content": "by",
+				"key": "B"
+			},
+			{
+				"content": "on",
+				"key": "C"
+			},
+			{
+				"content": "for",
+				"key": "D"
+			}
+		],
+		"correct_answer": "A"
+	},
+	{
+		"id": 109,
+		"question": "No matter how drastically you revise your book, you must include photos of an artwork that you want to .................. from the previous edition.",
+		"answers": [
+			{
+				"content": "practice",
+				"key": "A"
+			},
+			{
+				"content": "persist",
+				"key": "B"
+			},
+			{
+				"content": "cooperate",
+				"key": "C"
+			},
+			{
+				"content": "retain",
+				"key": "D"
+			}
+		],
+		"correct_answer": "D"
+	},
+	{
+		"id": 110,
+		"question": "Employees will be given bonuses and incentives ................ depending on their performance achievements, not based on their relationship with supervisors.",
+		"answers": [
+			{
+				"content": "exclusive",
+				"key": "A"
+			},
+			{
+				"content": "excluding",
+				"key": "B"
+			},
+			{
+				"content": "exclusively",
+				"key": "C"
+			},
+			{
+				"content": "excluded",
+				"key": "D"
+			}
+		],
+		"correct_answer": "C"
+	},
+	{
+		"id": 111,
+		"question": "The internal audit is going to identify operational and financial risks our company is .................... at the moment.",
+		"answers": [
+			{
+				"content": "facing",
+				"key": "A"
+			},
+			{
+				"content": "progressing",
+				"key": "B"
+			},
+			{
+				"content": "playing",
+				"key": "C"
+			},
+			{
+				"content": "dealing",
+				"key": "D"
+			}
+		],
+		"correct_answer": "A"
+	},
+	{
+		"id": 112,
+		"question": ".................inclement weather conditions, employees must arrive at the beginning of their work shift.",
+		"answers": [
+			{
+				"content": "Despite",
+				"key": "A"
+			},
+			{
+				"content": "Unless",
+				"key": "B"
+			},
+			{
+				"content": "In order to",
+				"key": "C"
+			},
+			{
+				"content": "As well as",
+				"key": "D"
+			}
+		],
+		"correct_answer": "A"
+	},
+	{
+		"id": 113,
+		"question": "Refreshments are arranged in the lobby ....................meals will be served shortly thereafter.",
+		"answers": [
+			{
+				"content": "such",
+				"key": "A"
+			},
+			{
+				"content": "either",
+				"key": "B"
+			},
+			{
+				"content": "with",
+				"key": "C"
+			},
+			{
+				"content": "and",
+				"key": "D"
+			}
+		],
+		"correct_answer": "C"
+	},
+	{
+		"id": 114,
+		"question": "Donations ......................for the purchase of necessities will help provide a brighter holiday season to people in need.",
+		"answers": [
+			{
+				"content": "seek",
+				"key": "A"
+			},
+			{
+				"content": "seeking",
+				"key": "B"
+			},
+			{
+				"content": "have sought",
+				"key": "C"
+			},
+			{
+				"content": "being sought",
+				"key": "D"
+			}
+		],
+		"correct_answer": "D"
+	},
+	{
+		"id": 115,
+		"question": "All the accountants are required to compile a report which................... annual corporate spending.",
+		"answers": [
+			{
+				"content": "corresponds",
+				"key": "A"
+			},
+			{
+				"content": "expects",
+				"key": "B"
+			},
+			{
+				"content": "details",
+				"key": "C"
+			},
+			{
+				"content": "prepares",
+				"key": "D"
+			}
+		],
+		"correct_answer": "C"
+	},
+	{
+		"id": 116,
+		"question": "You can.............rebuild your credit by taking steps to repair your credit rating as soon aspossible.",
+		"answers": [
+			{
+				"content": "easy",
+				"key": "A"
+			},
+			{
+				"content": "easier",
+				"key": "B"
+			},
+			{
+				"content": "easily",
+				"key": "C"
+			},
+			{
+				"content": "easiness",
+				"key": "D"
+			}
+		],
+		"correct_answer": "C"
+	},
+	{
+		"id": 117,
+		"question": "The company announced plans to.......... its corporate name to BATEL, Inc. for marketing and commercial purposes.",
+		"answers": [
+			{
+				"content": "use",
+				"key": "A"
+			},
+			{
+				"content": "add",
+				"key": "B"
+			},
+			{
+				"content": "change",
+				"key": "C"
+			},
+			{
+				"content": "diﬁer",
+				"key": "D"
+			}
+		],
+		"correct_answer": "C"
+	},
+	{
+		"id": 118,
+		"question": "Make sure you provide the requested........... when submitting advertising proposals since incomplete ones will not be accepted.",
+		"answers": [
+			{
+				"content": "information",
+				"key": "A"
+			},
+			{
+				"content": "inform",
+				"key": "B"
+			},
+			{
+				"content": "informing",
+				"key": "C"
+			},
+			{
+				"content": "informed",
+				"key": "D"
+			}
+		],
+		"correct_answer": "A"
+	},
+	{
+		"id": 119,
+		"question": "Thank you for offering me a position with the company I wish to work tor, and I really appreciate the efforts you've made on ................. behalf.",
+		"answers": [
+			{
+				"content": "l",
+				"key": "A"
+			},
+			{
+				"content": "my",
+				"key": "B"
+			},
+			{
+				"content": "me",
+				"key": "C"
+			},
+			{
+				"content": "mine",
+				"key": "D"
+			}
+		],
+		"correct_answer": "B"
+	},
+	{
+		"id": 120,
+		"question": "The ideal candidate should not only perform well under tight deadline pressure but also have a............... familiarity with technical standards.",
+		"answers": [
+			{
+				"content": "broad",
+				"key": "A"
+			},
+			{
+				"content": "high",
+				"key": "B"
+			},
+			{
+				"content": "proud",
+				"key": "C"
+			},
+			{
+				"content": "round",
+				"key": "D"
+			}
+		],
+		"correct_answer": "A"
+	},
+	{
+		"id": 121,
+		"question": "People are aware of the importance of............. physical activities which have a significant impact on reducing childhood obesity and chronic disease.",
+		"answers": [
+			{
+				"content": "promotes",
+				"key": "A"
+			},
+			{
+				"content": "promote",
+				"key": "B"
+			},
+			{
+				"content": "promoting",
+				"key": "C"
+			},
+			{
+				"content": "promoted",
+				"key": "D"
+			}
+		],
+		"correct_answer": "C"
+	},
+	{
+		"id": 122,
+		"question": "Over the past three months, employees have been working............. with support staff to accomplish their goals, working an average of eight hours per day.",
+		"answers": [
+			{
+				"content": "initially",
+				"key": "A"
+			},
+			{
+				"content": "originally",
+				"key": "B"
+			},
+			{
+				"content": "primarily",
+				"key": "C"
+			},
+			{
+				"content": "numerically",
+				"key": "D"
+			}
+		],
+		"correct_answer": "C"
+	},
+	{
+		"id": 123,
+		"question": "While smokers are highly............of the ban on smoking in workplaces, most non- smokers support the ban.",
+		"answers": [
+			{
+				"content": "critic",
+				"key": "A"
+			},
+			{
+				"content": "critically",
+				"key": "B"
+			},
+			{
+				"content": "critical",
+				"key": "C"
+			},
+			{
+				"content": "criticism",
+				"key": "D"
+			}
+		],
+		"correct_answer": "C"
+	},
+	{
+		"id": 124,
+		"question": "All the forms you submit must be postmarked no later than the specified date ..................... they will be considered untimely.",
+		"answers": [
+			{
+				"content": "or else",
+				"key": "A"
+			},
+			{
+				"content": "besides",
+				"key": "B"
+			},
+			{
+				"content": "on account of",
+				"key": "C"
+			},
+			{
+				"content": "either",
+				"key": "D"
+			}
+		],
+		"correct_answer": "A"
+	},
+	{
+		"id": 125,
+		"question": "lt looks like directors of the corporate finance division .................. the details of managerial compensation contracts.",
+		"answers": [
+			{
+				"content": "regulate",
+				"key": "A"
+			},
+			{
+				"content": "regulating",
+				"key": "B"
+			},
+			{
+				"content": "regulates",
+				"key": "C"
+			},
+			{
+				"content": "is regulated",
+				"key": "D"
+			}
+		],
+		"correct_answer": "A"
+	},
+	{
+		"id": 126,
+		"question": "As a financial planner, Mr, Martin has a comprehensive ...............of the legal process, as well as financial and tax issues.",
+		"answers": [
+			{
+				"content": "knowledge",
+				"key": "A"
+			},
+			{
+				"content": "opinion",
+				"key": "B"
+			},
+			{
+				"content": "ability",
+				"key": "C"
+			},
+			{
+				"content": "collector",
+				"key": "D"
+			}
+		],
+		"correct_answer": "A"
+	},
+	{
+		"id": 127,
+		"question": "If you send the.................... information, I'll drop by your area to look for suitable housing.",
+		"answers": [
+			{
+				"content": "enthusiastic",
+				"key": "A"
+			},
+			{
+				"content": "serious",
+				"key": "B"
+			},
+			{
+				"content": "pertinent",
+				"key": "C"
+			},
+			{
+				"content": "appreciative",
+				"key": "D"
+			}
+		],
+		"correct_answer": "C"
+	},
+	{
+		"id": 128,
+		"question": "Buses in the metropolitan area are rarely on schedule................. traffic is busy and hectic.",
+		"answers": [
+			{
+				"content": "which",
+				"key": "A"
+			},
+			{
+				"content": "in case",
+				"key": "B"
+			},
+			{
+				"content": "when",
+				"key": "C"
+			},
+			{
+				"content": "in order that",
+				"key": "D"
+			}
+		],
+		"correct_answer": "C"
+	},
+	{
+		"id": 129,
+		"question": "We are..................... considering a wide variety of potential applicants, so please fill out your background information accurately.",
+		"answers": [
+			{
+				"content": "ordinarily",
+				"key": "A"
+			},
+			{
+				"content": "currently",
+				"key": "B"
+			},
+			{
+				"content": "commonly",
+				"key": "C"
+			},
+			{
+				"content": "lately",
+				"key": "D"
+			}
+		],
+		"correct_answer": "B"
+	},
+	{
+		"id": 130,
+		"question": "If you plan to rent equipment, delivery and collection times, plus insurance coverage for any damage should all be dealt with.....................advance.",
+		"answers": [
+			{
+				"content": "in",
+				"key": "A"
+			},
+			{
+				"content": "of",
+				"key": "B"
+			},
+			{
+				"content": "at",
+				"key": "C"
+			},
+			{
+				"content": "for",
+				"key": "D"
+			}
+		],
+		"correct_answer": "A"
+	},
+	{
+		"id": 131,
+		"question": ".......parts stored in the warehouse may be procured at special sale prices, which are negotiable.",
+		"answers": [
+			{
+				"content": "Lengthy",
+				"key": "A"
+			},
+			{
+				"content": "Opportune",
+				"key": "B"
+			},
+			{
+				"content": "Surplus",
+				"key": "C"
+			},
+			{
+				"content": "Brief",
+				"key": "D"
+			}
+		],
+		"correct_answer": "C"
+	},
+	{
+		"id": 132,
+		"question": "You can reach us either by phone or e-mail when you need technical.............. or have any questions about the product you purchased.",
+		"answers": [
+			{
+				"content": "supported",
+				"key": "A"
+			},
+			{
+				"content": "supporter",
+				"key": "B"
+			},
+			{
+				"content": "supporting",
+				"key": "C"
+			},
+			{
+				"content": "support",
+				"key": "D"
+			}
+		],
+		"correct_answer": "D"
+	},
+	{
+		"id": 133,
+		"question": "Any....................transaction or violations of the policy must be reported to your immediate supervisor.",
+		"answers": [
+			{
+				"content": "improper",
+				"key": "A"
+			},
+			{
+				"content": "resented",
+				"key": "B"
+			},
+			{
+				"content": "extinct",
+				"key": "C"
+			},
+			{
+				"content": "anxious",
+				"key": "D"
+			}
+		],
+		"correct_answer": "A"
+	},
+	{
+		"id": 134,
+		"question": "After hours of debate, the Review Committee created a list of ...................to the proposal drafted by administrators.",
+		"answers": [
+			{
+				"content": "changed",
+				"key": "A"
+			},
+			{
+				"content": "change",
+				"key": "B"
+			},
+			{
+				"content": "changes",
+				"key": "C"
+			},
+			{
+				"content": "changing",
+				"key": "D"
+			}
+		],
+		"correct_answer": "C"
+	},
+	{
+		"id": 135,
+		"question": "l want to express my appreciation again for courtesies you and your staff have ..............to me.",
+		"answers": [
+			{
+				"content": "extend",
+				"key": "A"
+			},
+			{
+				"content": "extended",
+				"key": "B"
+			},
+			{
+				"content": "to extend",
+				"key": "C"
+			},
+			{
+				"content": "extension",
+				"key": "D"
+			}
+		],
+		"correct_answer": "B"
+	},
+	{
+		"id": 136,
+		"question": "In recent years, most companies have been favoring rigid criteria systems that require employees to...................discretion.",
+		"answers": [
+			{
+				"content": "exercises",
+				"key": "A"
+			},
+			{
+				"content": "exercising",
+				"key": "B"
+			},
+			{
+				"content": "exercised",
+				"key": "C"
+			},
+			{
+				"content": "exercise",
+				"key": "D"
+			}
+		],
+		"correct_answer": "D"
+	},
+	{
+		"id": 137,
+		"question": "According to many reports, the............... of laughter range from lowering stress levels to boosting your immune system.",
+		"answers": [
+			{
+				"content": "interests",
+				"key": "A"
+			},
+			{
+				"content": "benefits",
+				"key": "B"
+			},
+			{
+				"content": "forces",
+				"key": "C"
+			},
+			{
+				"content": "momentums",
+				"key": "D"
+			}
+		],
+		"correct_answer": "B"
+	},
+	{
+		"id": 138,
+		"question": "Many branch offices were established in the suburbs 10 years ago, ............ which time the volume of traffic was also steadily increasing.",
+		"answers": [
+			{
+				"content": "at",
+				"key": "A"
+			},
+			{
+				"content": "over",
+				"key": "B"
+			},
+			{
+				"content": "across",
+				"key": "C"
+			},
+			{
+				"content": "during",
+				"key": "D"
+			}
+		],
+		"correct_answer": "A"
+	},
+	{
+		"id": 139,
+		"question": "Please..............any information, no matter how insufficient it may seem, to your client in the very near future.",
+		"answers": [
+			{
+				"content": "forwvards",
+				"key": "A"
+			},
+			{
+				"content": "forward",
+				"key": "B"
+			},
+			{
+				"content": "forwarding",
+				"key": "C"
+			},
+			{
+				"content": "to forward",
+				"key": "D"
+			}
+		],
+		"correct_answer": "B"
+	},
+	{
+		"id": 140,
+		"question": "Any discarded electronic device can be recycled less harmfully, using an effective ................. developed by researchers.",
+		"answers": [
+			{
+				"content": "availability",
+				"key": "A"
+			},
+			{
+				"content": "status",
+				"key": "B"
+			},
+			{
+				"content": "usage",
+				"key": "C"
+			},
+			{
+				"content": "technique",
+				"key": "D"
+			}
+		],
+		"correct_answer": "D"
+	},
+	{
+		"id": 141,
+		"question": "The Victoria Hotel, ...............we stayed during our summer vacation, will be torn down for extensive renovations.",
+		"answers": [
+			{
+				"content": "when",
+				"key": "A"
+			},
+			{
+				"content": "where",
+				"key": "B"
+			},
+			{
+				"content": "in that",
+				"key": "C"
+			},
+			{
+				"content": "in it",
+				"key": "D"
+			}
+		],
+		"correct_answer": "B"
+	},
+	{
+		"id": 142,
+		"question": "We are not happy to announce that due to recent cutbacks on members, we won't be able to accept new projects............... further notice.",
+		"answers": [
+			{
+				"content": "except",
+				"key": "A"
+			},
+			{
+				"content": "next to",
+				"key": "B"
+			},
+			{
+				"content": "onto",
+				"key": "C"
+			},
+			{
+				"content": "until",
+				"key": "D"
+			}
+		],
+		"correct_answer": "D"
+	},
+	{
+		"id": 143,
+		"question": "As most of the conference sessions are ...............fully booked, people are encouraged to find alternatives from other seminars.",
+		"answers": [
+			{
+				"content": "well",
+				"key": "A"
+			},
+			{
+				"content": "soon",
+				"key": "B"
+			},
+			{
+				"content": "already",
+				"key": "C"
+			},
+			{
+				"content": "never",
+				"key": "D"
+			}
+		],
+		"correct_answer": "C"
+	},
+	{
+		"id": 144,
+		"question": "The agreed-upon.............sanctions are not limited to tariffs, trade barriers, and import or export quotas imposed on individual countries.",
+		"answers": [
+			{
+				"content": "economic",
+				"key": "A"
+			},
+			{
+				"content": "economically",
+				"key": "B"
+			},
+			{
+				"content": "economist",
+				"key": "C"
+			},
+			{
+				"content": "economy",
+				"key": "D"
+			}
+		],
+		"correct_answer": "A"
+	},
+	{
+		"id": 145,
+		"question": "The proposed compensation plans have been............. and will be amended to comply with new rules.",
+		"answers": [
+			{
+				"content": "reviewed",
+				"key": "A"
+			},
+			{
+				"content": "searched",
+				"key": "B"
+			},
+			{
+				"content": "advised",
+				"key": "C"
+			},
+			{
+				"content": "reached",
+				"key": "D"
+			}
+		],
+		"correct_answer": "A"
+	},
+	{
+		"id": 146,
+		"question": "The unions requested that they be offered...........pay increases equaling about 40,000 dollars a year.",
+		"answers": [
+			{
+				"content": "substantiate",
+				"key": "A"
+			},
+			{
+				"content": "substantially",
+				"key": "B"
+			},
+			{
+				"content": "substance",
+				"key": "C"
+			},
+			{
+				"content": "substantial",
+				"key": "D"
+			}
+		],
+		"correct_answer": "D"
+	},
+	{
+		"id": 147,
+		"question": "The website sponsored by the city monitoring committee will help you protect...........against Internet threats.",
+		"answers": [
+			{
+				"content": "yours",
+				"key": "A"
+			},
+			{
+				"content": "your",
+				"key": "B"
+			},
+			{
+				"content": "yourself",
+				"key": "C"
+			},
+			{
+				"content": "your own",
+				"key": "D"
+			}
+		],
+		"correct_answer": "C"
+	},
+	{
+		"id": 148,
+		"question": "Maintenance checks are regularly conducted to...................the life ot sophisticated equipment at the company's expense.",
+		"answers": [
+			{
+				"content": "emerge",
+				"key": "A"
+			},
+			{
+				"content": "persist",
+				"key": "B"
+			},
+			{
+				"content": "endure",
+				"key": "C"
+			},
+			{
+				"content": "prolong",
+				"key": "D"
+			}
+		],
+		"correct_answer": "D"
+	},
+	{
+		"id": 149,
+		"question": "The new aquarium scheduled to be constructed in the center of town will be ........... attractive to people who have young children.",
+		"answers": [
+			{
+				"content": "so much",
+				"key": "A"
+			},
+			{
+				"content": "sure",
+				"key": "B"
+			},
+			{
+				"content": "especially",
+				"key": "C"
+			},
+			{
+				"content": "particular",
+				"key": "D"
+			}
+		],
+		"correct_answer": "C"
+	},
+	{
+		"id": 150,
+		"question": "We are sorry to tell you that your name will be ................ from our mailing list since we have not yet received your payment.",
+		"answers": [
+			{
+				"content": "removed",
+				"key": "A"
+			},
+			{
+				"content": "replaced",
+				"key": "B"
+			},
+			{
+				"content": "sent",
+				"key": "C"
+			},
+			{
+				"content": "stored",
+				"key": "D"
+			}
+		],
+		"correct_answer": "A"
+	},
+	{
+		"id": 151,
+		"question": "This notice provides general guidance on how you can obtain the best available information..............other sources.",
+		"answers": [
+			{
+				"content": "over",
+				"key": "A"
+			},
+			{
+				"content": "behind",
+				"key": "B"
+			},
+			{
+				"content": "from",
+				"key": "C"
+			},
+			{
+				"content": "out of",
+				"key": "D"
+			}
+		],
+		"correct_answer": "C"
+	},
+	{
+		"id": 152,
+		"question": "You will have a full week at the resort of your ............ departing on July 20 and arriving back in Tokyo on July 26.",
+		"answers": [
+			{
+				"content": "choose",
+				"key": "A"
+			},
+			{
+				"content": "choice",
+				"key": "B"
+			},
+			{
+				"content": "choices",
+				"key": "C"
+			},
+			{
+				"content": "chose",
+				"key": "D"
+			}
+		],
+		"correct_answer": "B"
+	},
+	{
+		"id": 153,
+		"question": ".................. inexperienced, individuals with the willingness to learn will make a difference in the foreseeable future.",
+		"answers": [
+			{
+				"content": "Until",
+				"key": "A"
+			},
+			{
+				"content": "Despite",
+				"key": "B"
+			},
+			{
+				"content": "Although",
+				"key": "C"
+			},
+			{
+				"content": "Otherwise",
+				"key": "D"
+			}
+		],
+		"correct_answer": "C"
+	},
+	{
+		"id": 154,
+		"question": "It was likely that the results of our study were heavily influenced ................ individual experience and skills participants had, according to the report.",
+		"answers": [
+			{
+				"content": "toward",
+				"key": "A"
+			},
+			{
+				"content": "due",
+				"key": "B"
+			},
+			{
+				"content": "by",
+				"key": "C"
+			},
+			{
+				"content": "when",
+				"key": "D"
+			}
+		],
+		"correct_answer": "C"
+	},
+	{
+		"id": 155,
+		"question": "Even if education is theoretically free of charge, parents ................. have to pay the increasingly high cost of school clothing, books, materials and transport costs",
+		"answers": [
+			{
+				"content": "always",
+				"key": "A"
+			},
+			{
+				"content": "usually",
+				"key": "B"
+			},
+			{
+				"content": "still",
+				"key": "C"
+			},
+			{
+				"content": "yet",
+				"key": "D"
+			}
+		],
+		"correct_answer": "B"
+	},
+	{
+		"id": 156,
+		"question": "Considering the failure of ............system to offer adequate support, we might have to provide refunds to our customers.",
+		"answers": [
+			{
+				"content": "us",
+				"key": "A"
+			},
+			{
+				"content": "ours",
+				"key": "B"
+			},
+			{
+				"content": "ourselves",
+				"key": "C"
+			},
+			{
+				"content": "our",
+				"key": "D"
+			}
+		],
+		"correct_answer": "A"
+	},
+	{
+		"id": 157,
+		"question": "Some managers are supposed to meet each other at the end of the month to talk ..............their monthly peformance reviews.",
+		"answers": [
+			{
+				"content": "under",
+				"key": "A"
+			},
+			{
+				"content": "about",
+				"key": "B"
+			},
+			{
+				"content": "along",
+				"key": "C"
+			},
+			{
+				"content": "into",
+				"key": "D"
+			}
+		],
+		"correct_answer": "A"
+	},
+	{
+		"id": 158,
+		"question": "There's another piece of evidence that there has been enormous..............in the supply of customized services to customers.",
+		"answers": [
+			{
+				"content": "growth",
+				"key": "A"
+			},
+			{
+				"content": "grows",
+				"key": "B"
+			},
+			{
+				"content": "grown",
+				"key": "C"
+			},
+			{
+				"content": "grower",
+				"key": "D"
+			}
+		],
+		"correct_answer": "A"
+	},
+	{
+		"id": 159,
+		"question": "Our aim is to increase the efficiency of the rail services both for freight and passengers by providing sen/ices on the network and increasing................... among companies.",
+		"answers": [
+			{
+				"content": "competes",
+				"key": "A"
+			},
+			{
+				"content": "competitively",
+				"key": "B"
+			},
+			{
+				"content": "competitive",
+				"key": "C"
+			},
+			{
+				"content": "competition",
+				"key": "D"
+			}
+		],
+		"correct_answer": "D"
+	},
+	{
+		"id": 160,
+		"question": "People can obtain information.............. an article containing several cases of the implementation of the new technology and its impact.",
+		"answers": [
+			{
+				"content": "where",
+				"key": "A"
+			},
+			{
+				"content": "while",
+				"key": "B"
+			},
+			{
+				"content": "from",
+				"key": "C"
+			},
+			{
+				"content": "wherever",
+				"key": "D"
+			}
+		],
+		"correct_answer": "C"
+	},
+	{
+		"id": 161,
+		"question": "................we are under a tight deadline on product delivery, we will have to ask for assistance from other departments.",
+		"answers": [
+			{
+				"content": "Moreover",
+				"key": "A"
+			},
+			{
+				"content": "Because",
+				"key": "B"
+			},
+			{
+				"content": "Therefore",
+				"key": "C"
+			},
+			{
+				"content": "Nevertheless",
+				"key": "D"
+			}
+		],
+		"correct_answer": "B"
+	},
+	{
+		"id": 162,
+		"question": "We are sorry to announce that we will not .............any credit cards starting next year since a cash deposit is required.",
+		"answers": [
+			{
+				"content": "accepts",
+				"key": "A"
+			},
+			{
+				"content": "accepting",
+				"key": "B"
+			},
+			{
+				"content": "accept",
+				"key": "C"
+			},
+			{
+				"content": "accepted",
+				"key": "D"
+			}
+		],
+		"correct_answer": "C"
+	},
+	{
+		"id": 163,
+		"question": "The chairperson was trying to curtail a lengthy, heated discussion .............the merits of work ethics due to the time constraint.",
+		"answers": [
+			{
+				"content": "on",
+				"key": "A"
+			},
+			{
+				"content": "by",
+				"key": "B"
+			},
+			{
+				"content": "with",
+				"key": "C"
+			},
+			{
+				"content": "to",
+				"key": "D"
+			}
+		],
+		"correct_answer": "A"
+	},
+	{
+		"id": 164,
+		"question": "Many on-line retailers state that it is............than they expected to set prices that attract more customers while boosting their profit margins.",
+		"answers": [
+			{
+				"content": "difficult",
+				"key": "A"
+			},
+			{
+				"content": "difficulty",
+				"key": "B"
+			},
+			{
+				"content": "more difficult",
+				"key": "C"
+			},
+			{
+				"content": "much difficult",
+				"key": "D"
+			}
+		],
+		"correct_answer": "C"
+	},
+	{
+		"id": 165,
+		"question": "Enclosed is a..............of the company's current activities and future plans, so read it carefully and leave your comments on it.",
+		"answers": [
+			{
+				"content": "total",
+				"key": "A"
+			},
+			{
+				"content": "product",
+				"key": "B"
+			},
+			{
+				"content": "registration",
+				"key": "C"
+			},
+			{
+				"content": "summary",
+				"key": "D"
+			}
+		],
+		"correct_answer": "D"
+	},
+	{
+		"id": 166,
+		"question": "The revised version of an unpublished manuscript............ due to arrive this morning at 10 o'clock, but unexpected problems delayed the shipping.",
+		"answers": [
+			{
+				"content": "was",
+				"key": "A"
+			},
+			{
+				"content": "were",
+				"key": "B"
+			},
+			{
+				"content": "is",
+				"key": "C"
+			},
+			{
+				"content": "are",
+				"key": "D"
+			}
+		],
+		"correct_answer": "A"
+	},
+	{
+		"id": 167,
+		"question": "..........................searching for long-term economic growth, the government intends to study immediate solutions to avoid severe criticism from the public.",
+		"answers": [
+			{
+				"content": "According to",
+				"key": "A"
+			},
+			{
+				"content": "Future",
+				"key": "B"
+			},
+			{
+				"content": "However",
+				"key": "C"
+			},
+			{
+				"content": "Instead of",
+				"key": "D"
+			}
+		],
+		"correct_answer": "D"
+	},
+	{
+		"id": 168,
+		"question": "The company you work for is willing to take advantage of new technology, but ............ are concerned about adverse consequences.",
+		"answers": [
+			{
+				"content": "other",
+				"key": "A"
+			},
+			{
+				"content": "others",
+				"key": "B"
+			},
+			{
+				"content": "the other",
+				"key": "C"
+			},
+			{
+				"content": "another",
+				"key": "D"
+			}
+		],
+		"correct_answer": "B"
+	},
+	{
+		"id": 169,
+		"question": "The renovated French restaurant next to the post office attracted more customers as a result of its.................priced, various food selections.",
+		"answers": [
+			{
+				"content": "reasonably",
+				"key": "A"
+			},
+			{
+				"content": "thoroughly",
+				"key": "B"
+			},
+			{
+				"content": "gratefully",
+				"key": "C"
+			},
+			{
+				"content": "virtually",
+				"key": "D"
+			}
+		],
+		"correct_answer": "A"
+	},
+	{
+		"id": 170,
+		"question": "The elegant hotel known for its fabulous amenities is.............. located near the local airport.",
+		"answers": [
+			{
+				"content": "convenience",
+				"key": "A"
+			},
+			{
+				"content": "convenient",
+				"key": "B"
+			},
+			{
+				"content": "conveniently",
+				"key": "C"
+			},
+			{
+				"content": "conveniented",
+				"key": "D"
+			}
+		],
+		"correct_answer": "C"
+	},
+	{
+		"id": 171,
+		"question": "The launch of new software programs has been under the.......... of Mr. Lopez, who's famous for his dedication to the company.",
+		"answers": [
+			{
+				"content": "attendance",
+				"key": "A"
+			},
+			{
+				"content": "sight",
+				"key": "B"
+			},
+			{
+				"content": "provision",
+				"key": "C"
+			},
+			{
+				"content": "supervision",
+				"key": "D"
+			}
+		],
+		"correct_answer": "D"
+	},
+	{
+		"id": 172,
+		"question": "Emma Jean,................. was nominated for an Employee of the Month Award for her exceptional work performance, will deliver a speech this evening.",
+		"answers": [
+			{
+				"content": "who",
+				"key": "A"
+			},
+			{
+				"content": "anyone",
+				"key": "B"
+			},
+			{
+				"content": "whose",
+				"key": "C"
+			},
+			{
+				"content": "whichever",
+				"key": "D"
+			}
+		],
+		"correct_answer": "A"
+	},
+	{
+		"id": 173,
+		"question": "Our policy guarantees that any damaged products incurred in transit will be.............. immediately with new ones, or a full refund will be issued.",
+		"answers": [
+			{
+				"content": "prepared",
+				"key": "A"
+			},
+			{
+				"content": "consumed",
+				"key": "B"
+			},
+			{
+				"content": "revised",
+				"key": "C"
+			},
+			{
+				"content": "replaced",
+				"key": "D"
+			}
+		],
+		"correct_answer": "D"
+	},
+	{
+		"id": 174,
+		"question": "The planning officer was struggling to get a permit to................a residential area, which can easily cost a billion dollars even before the expense of buying the land.",
+		"answers": [
+			{
+				"content": "develop",
+				"key": "A"
+			},
+			{
+				"content": "revise",
+				"key": "B"
+			},
+			{
+				"content": "achieve",
+				"key": "C"
+			},
+			{
+				"content": "contribute",
+				"key": "D"
+			}
+		],
+		"correct_answer": "A"
+	},
+	{
+		"id": 175,
+		"question": "The chief executive officer is obligated to retain all the information of a.............. nature in relation to negotiations.",
+		"answers": [
+			{
+				"content": "limited",
+				"key": "A"
+			},
+			{
+				"content": "former",
+				"key": "B"
+			},
+			{
+				"content": "confidential",
+				"key": "C"
+			},
+			{
+				"content": "mandatory",
+				"key": "D"
+			}
+		],
+		"correct_answer": "C"
+	},
+	{
+		"id": 176,
+		"question": "Service occupations are prevalent in allsectors of the economy, such as inmanufacturing as...............as in the service sector.",
+		"answers": [
+			{
+				"content": "far",
+				"key": "A"
+			},
+			{
+				"content": "well",
+				"key": "B"
+			},
+			{
+				"content": "good",
+				"key": "C"
+			},
+			{
+				"content": "near",
+				"key": "D"
+			}
+		],
+		"correct_answer": "B"
+	},
+	{
+		"id": 177,
+		"question": "Those individuals who want to gain automatic access to the information are advised to ............the password that was sentto them by phone.",
+		"answers": [
+			{
+				"content": "enter",
+				"key": "A"
+			},
+			{
+				"content": "place",
+				"key": "B"
+			},
+			{
+				"content": "offer",
+				"key": "C"
+			},
+			{
+				"content": "create",
+				"key": "D"
+			}
+		],
+		"correct_answer": "A"
+	},
+	{
+		"id": 178,
+		"question": "The newly appointed vice president is expected to earn the............. trust of employees despite all indications to the contrary.",
+		"answers": [
+			{
+				"content": "completely",
+				"key": "A"
+			},
+			{
+				"content": "completed",
+				"key": "B"
+			},
+			{
+				"content": "completing",
+				"key": "C"
+			},
+			{
+				"content": "complete",
+				"key": "D"
+			}
+		],
+		"correct_answer": "D"
+	},
+	{
+		"id": 179,
+		"question": "The board of directors will.................a regular employment session next Monday September 16th at 10 a.m. in the board room.",
+		"answers": [
+			{
+				"content": "close",
+				"key": "A"
+			},
+			{
+				"content": "hold",
+				"key": "B"
+			},
+			{
+				"content": "wait",
+				"key": "C"
+			},
+			{
+				"content": "meet",
+				"key": "D"
+			}
+		],
+		"correct_answer": "B"
+	},
+	{
+		"id": 180,
+		"question": "Many financial specialists............... predicted that industries might encounter a decline in manufacturing investment in 2007 by almost 15 percent.",
+		"answers": [
+			{
+				"content": "mistook",
+				"key": "A"
+			},
+			{
+				"content": "mistake",
+				"key": "B"
+			},
+			{
+				"content": "mistaken",
+				"key": "C"
+			},
+			{
+				"content": "mistakenly",
+				"key": "D"
+			}
+		],
+		"correct_answer": "D"
+	},
+	{
+		"id": 181,
+		"question": ".......................months of tough negotiations, it was announced this morning that an agreement had finally been reached.",
+		"answers": [
+			{
+				"content": "Following",
+				"key": "A"
+			},
+			{
+				"content": "Except",
+				"key": "B"
+			},
+			{
+				"content": "Upon",
+				"key": "C"
+			},
+			{
+				"content": "At",
+				"key": "D"
+			}
+		],
+		"correct_answer": "A"
+	},
+	{
+		"id": 182,
+		"question": "Our skilled and experienced service representatives will be able to resolve any problems you might encounter by...............",
+		"answers": [
+			{
+				"content": "himself",
+				"key": "A"
+			},
+			{
+				"content": "herself",
+				"key": "B"
+			},
+			{
+				"content": "itself",
+				"key": "C"
+			},
+			{
+				"content": "themselves",
+				"key": "D"
+			}
+		],
+		"correct_answer": "D"
+	},
+	{
+		"id": 183,
+		"question": "All employees should be informed explicitly of their responsibilities in relation to................. client information.",
+		"answers": [
+			{
+				"content": "sensitive",
+				"key": "A"
+			},
+			{
+				"content": "competitive",
+				"key": "B"
+			},
+			{
+				"content": "affordable",
+				"key": "C"
+			},
+			{
+				"content": "courteous",
+				"key": "D"
+			}
+		],
+		"correct_answer": "A"
+	},
+	{
+		"id": 184,
+		"question": "Much of the expected boost in revenue is related to a transaction tax which has yet to receive final................ from Congress.",
+		"answers": [
+			{
+				"content": "approving",
+				"key": "A"
+			},
+			{
+				"content": "approved",
+				"key": "B"
+			},
+			{
+				"content": "approval",
+				"key": "C"
+			},
+			{
+				"content": "approves",
+				"key": "D"
+			}
+		],
+		"correct_answer": "C"
+	},
+	{
+		"id": 185,
+		"question": "Since the corporate system has a............. structured daily schedule, it would be nearly impossible to impair the work efficiency.",
+		"answers": [
+			{
+				"content": "hopefully",
+				"key": "A"
+			},
+			{
+				"content": "highly",
+				"key": "B"
+			},
+			{
+				"content": "probably",
+				"key": "C"
+			},
+			{
+				"content": "rarely",
+				"key": "D"
+			}
+		],
+		"correct_answer": "B"
+	},
+	{
+		"id": 186,
+		"question": "In an effort............... customers with respect we have changed our hours to accommodate customer needs.",
+		"answers": [
+			{
+				"content": "treating",
+				"key": "A"
+			},
+			{
+				"content": "has treated",
+				"key": "B"
+			},
+			{
+				"content": "treated",
+				"key": "C"
+			},
+			{
+				"content": "to treat",
+				"key": "D"
+			}
+		],
+		"correct_answer": "D"
+	},
+	{
+		"id": 187,
+		"question": "The local government is planning to construct ............... performing arts facilities in order to meet the cultural needs of the population.",
+		"answers": [
+			{
+				"content": "infrequent",
+				"key": "A"
+			},
+			{
+				"content": "additional",
+				"key": "B"
+			},
+			{
+				"content": "ongoing",
+				"key": "C"
+			},
+			{
+				"content": "incidental",
+				"key": "D"
+			}
+		],
+		"correct_answer": "B"
+	},
+	{
+		"id": 188,
+		"question": "The appointment of Mr. Murphy as prime minister was intended to accelerate the proposed economic .................... without any hesitation.",
+		"answers": [
+			{
+				"content": "reformed",
+				"key": "A"
+			},
+			{
+				"content": "reformer",
+				"key": "B"
+			},
+			{
+				"content": "reforms",
+				"key": "C"
+			},
+			{
+				"content": "reformatory",
+				"key": "D"
+			}
+		],
+		"correct_answer": "C"
+	},
+	{
+		"id": 189,
+		"question": "Even though Peterson Group inc. is one of the largest automobile manufacturing companies, it has yet to see any profits as a result of................ market conditions.",
+		"answers": [
+			{
+				"content": "unfavorable",
+				"key": "A"
+			},
+			{
+				"content": "unwilling",
+				"key": "B"
+			},
+			{
+				"content": "opposing",
+				"key": "C"
+			},
+			{
+				"content": "reluctant",
+				"key": "D"
+			}
+		],
+		"correct_answer": "A"
+	},
+	{
+		"id": 190,
+		"question": "When l closed the window, all of the files and folders on my desktop computer...........except for the icon.",
+		"answers": [
+			{
+				"content": "are disappearing",
+				"key": "A"
+			},
+			{
+				"content": "will have disappeared",
+				"key": "B"
+			},
+			{
+				"content": "had disappeared",
+				"key": "C"
+			},
+			{
+				"content": "disappear",
+				"key": "D"
+			}
+		],
+		"correct_answer": "C"
+	},
+	{
+		"id": 191,
+		"question": "Mr. Conner's remarks concerning the results of last year's declining sales were concise and to the.................",
+		"answers": [
+			{
+				"content": "grade",
+				"key": "A"
+			},
+			{
+				"content": "feet",
+				"key": "B"
+			},
+			{
+				"content": "point",
+				"key": "C"
+			},
+			{
+				"content": "spot",
+				"key": "D"
+			}
+		],
+		"correct_answer": "C"
+	},
+	{
+		"id": 192,
+		"question": "Can-Do Engineering is searching for creative, ...............people who can produce excellent quality work that goes beyond customer expectations.",
+		"answers": [
+			{
+				"content": "motivate",
+				"key": "A"
+			},
+			{
+				"content": "motivator",
+				"key": "B"
+			},
+			{
+				"content": "motivated",
+				"key": "C"
+			},
+			{
+				"content": "motivation",
+				"key": "D"
+			}
+		],
+		"correct_answer": "C"
+	},
+	{
+		"id": 193,
+		"question": "We want you to be aware that we're doing our utmost, ..............we will not be able to provide you with a personalized experience on our website.",
+		"answers": [
+			{
+				"content": "in spite of",
+				"key": "A"
+			},
+			{
+				"content": "so as",
+				"key": "B"
+			},
+			{
+				"content": "despite",
+				"key": "C"
+			},
+			{
+				"content": "though",
+				"key": "D"
+			}
+		],
+		"correct_answer": "D"
+	},
+	{
+		"id": 194,
+		"question": "A new innovative program is ............ to be released, though some system failures happened at the beginning of the inspection.",
+		"answers": [
+			{
+				"content": "expecting",
+				"key": "A"
+			},
+			{
+				"content": "expected",
+				"key": "B"
+			},
+			{
+				"content": "expects",
+				"key": "C"
+			},
+			{
+				"content": "expect",
+				"key": "D"
+			}
+		],
+		"correct_answer": "B"
+	},
+	{
+		"id": 195,
+		"question": "Milky Cookies................enters into a contract with a third party vendor in order to fulfill its business operations.",
+		"answers": [
+			{
+				"content": "occasionally",
+				"key": "A"
+			},
+			{
+				"content": "prematurely",
+				"key": "B"
+			},
+			{
+				"content": "marginally",
+				"key": "C"
+			},
+			{
+				"content": "uncommonly",
+				"key": "D"
+			}
+		],
+		"correct_answer": "A"
+	},
+	{
+		"id": 196,
+		"question": "Employees must reserve a time to copy by writing their names on the............on the lid of the photooopiers.",
+		"answers": [
+			{
+				"content": "schedule",
+				"key": "A"
+			},
+			{
+				"content": "scheduled",
+				"key": "B"
+			},
+			{
+				"content": "schedules",
+				"key": "C"
+			},
+			{
+				"content": "schedulers",
+				"key": "D"
+			}
+		],
+		"correct_answer": "C"
+	},
+	{
+		"id": 197,
+		"question": "Most of the cabins situated at the bottom of the hill are.................. grey and white.",
+		"answers": [
+			{
+				"content": "painted",
+				"key": "A"
+			},
+			{
+				"content": "charged",
+				"key": "B"
+			},
+			{
+				"content": "alternated",
+				"key": "C"
+			},
+			{
+				"content": "transferred",
+				"key": "D"
+			}
+		],
+		"correct_answer": "A"
+	},
+	{
+		"id": 198,
+		"question": "Workshop participants were required to be .............not to choose any reserved front-row seats.",
+		"answers": [
+			{
+				"content": "caution",
+				"key": "A"
+			},
+			{
+				"content": "cautious",
+				"key": "B"
+			},
+			{
+				"content": "cautiously",
+				"key": "C"
+			},
+			{
+				"content": "cautiousness",
+				"key": "D"
+			}
+		],
+		"correct_answer": "B"
+	},
+	{
+		"id": 199,
+		"question": "ll you won't be able to present a valid receipt, neither may the products be returned...............are you refunded.",
+		"answers": [
+			{
+				"content": "or",
+				"key": "A"
+			},
+			{
+				"content": "and",
+				"key": "B"
+			},
+			{
+				"content": "neither",
+				"key": "C"
+			},
+			{
+				"content": "nor",
+				"key": "D"
+			}
+		],
+		"correct_answer": "D"
+	},
+	{
+		"id": 200,
+		"question": "Road and street signs must be............. visible even in the distance in order for drivers to know where lhey are heading.",
+		"answers": [
+			{
+				"content": "clearness",
+				"key": "A"
+			},
+			{
+				"content": "clear",
+				"key": "B"
+			},
+			{
+				"content": "clearly",
+				"key": "C"
+			},
+			{
+				"content": "clearest",
+				"key": "D"
+			}
+		],
+		"correct_answer": "C"
+	},
+	{
+		"id": 201,
+		"question": "To be safe, don't use bank cash machines located................pillars or away from public view.",
+		"answers": [
+			{
+				"content": "over",
+				"key": "A"
+			},
+			{
+				"content": "within",
+				"key": "B"
+			},
+			{
+				"content": "down",
+				"key": "C"
+			},
+			{
+				"content": "behind",
+				"key": "D"
+			}
+		],
+		"correct_answer": "D"
+	},
+	{
+		"id": 202,
+		"question": "So as to........... that your medical treatment will be paid for, you must present a note from your doctor.",
+		"answers": [
+			{
+				"content": "ensure",
+				"key": "A"
+			},
+			{
+				"content": "ensuring",
+				"key": "B"
+			},
+			{
+				"content": "ensured",
+				"key": "C"
+			},
+			{
+				"content": "be ensured",
+				"key": "D"
+			}
+		],
+		"correct_answer": "A"
+	},
+	{
+		"id": 203,
+		"question": "Since supplies are................, you are invited to order this gorgeous laptop model on sale before it is sold out.",
+		"answers": [
+			{
+				"content": "speedy",
+				"key": "A"
+			},
+			{
+				"content": "available",
+				"key": "B"
+			},
+			{
+				"content": "presentable",
+				"key": "C"
+			},
+			{
+				"content": "limited",
+				"key": "D"
+			}
+		],
+		"correct_answer": "B"
+	},
+	{
+		"id": 204,
+		"question": "The two companies signed an............... on the acquisition in spite of a few differing opinions.",
+		"answers": [
+			{
+				"content": "agreement",
+				"key": "A"
+			},
+			{
+				"content": "agrees",
+				"key": "B"
+			},
+			{
+				"content": "agreements",
+				"key": "C"
+			},
+			{
+				"content": "agreed",
+				"key": "D"
+			}
+		],
+		"correct_answer": "A"
+	},
+	{
+		"id": 205,
+		"question": "This e-mail is to let you know that the book you ordered is............on backorder.",
+		"answers": [
+			{
+				"content": "quickly",
+				"key": "A"
+			},
+			{
+				"content": "precisely",
+				"key": "B"
+			},
+			{
+				"content": "currently",
+				"key": "C"
+			},
+			{
+				"content": "temporarily",
+				"key": "D"
+			}
+		],
+		"correct_answer": "D"
+	},
+	{
+		"id": 206,
+		"question": "As soon as the shipment of computer equipment comes in,................ will ship it to you promptly.",
+		"answers": [
+			{
+				"content": "we",
+				"key": "A"
+			},
+			{
+				"content": "us",
+				"key": "B"
+			},
+			{
+				"content": "our",
+				"key": "C"
+			},
+			{
+				"content": "ourselves",
+				"key": "D"
+			}
+		],
+		"correct_answer": "A"
+	},
+	{
+		"id": 207,
+		"question": "New employees were.............. to be photographed immediately in order to have their new identification made.",
+		"answers": [
+			{
+				"content": "recalled",
+				"key": "A"
+			},
+			{
+				"content": "memorized",
+				"key": "B"
+			},
+			{
+				"content": "reminded",
+				"key": "C"
+			},
+			{
+				"content": "identified",
+				"key": "D"
+			}
+		],
+		"correct_answer": "C"
+	},
+	{
+		"id": 208,
+		"question": "As portable audio items............ currently unavailable in the store. you'd better check the lntemet for more inlorrnation.",
+		"answers": [
+			{
+				"content": "is",
+				"key": "A"
+			},
+			{
+				"content": "been",
+				"key": "B"
+			},
+			{
+				"content": "are",
+				"key": "C"
+			},
+			{
+				"content": "being",
+				"key": "D"
+			}
+		],
+		"correct_answer": "C"
+	},
+	{
+		"id": 209,
+		"question": "Our............... is not to issue refunds on software programs used on a trial basis.",
+		"answers": [
+			{
+				"content": "adoption",
+				"key": "A"
+			},
+			{
+				"content": "policy",
+				"key": "B"
+			},
+			{
+				"content": "exhibit",
+				"key": "C"
+			},
+			{
+				"content": "regard",
+				"key": "D"
+			}
+		],
+		"correct_answer": "B"
+	},
+	{
+		"id": 210,
+		"question": "We have worked............hard on health insurance plans to enhance employee satisfaction.",
+		"answers": [
+			{
+				"content": "exception",
+				"key": "A"
+			},
+			{
+				"content": "exceptionally",
+				"key": "B"
+			},
+			{
+				"content": "exceptional",
+				"key": "C"
+			},
+			{
+				"content": "except",
+				"key": "D"
+			}
+		],
+		"correct_answer": "B"
+	},
+	{
+		"id": 211,
+		"question": "Funds from the govemment grant will be allocated to or distributed..........the affected areas.",
+		"answers": [
+			{
+				"content": "among",
+				"key": "A"
+			},
+			{
+				"content": "toward",
+				"key": "B"
+			},
+			{
+				"content": "after",
+				"key": "C"
+			},
+			{
+				"content": "during",
+				"key": "D"
+			}
+		],
+		"correct_answer": "A"
+	},
+	{
+		"id": 212,
+		"question": "More efforts to accomplish the objectives for reducing costs have been made...........they were set out at the beginning of this year,",
+		"answers": [
+			{
+				"content": "if",
+				"key": "A"
+			},
+			{
+				"content": "since",
+				"key": "B"
+			},
+			{
+				"content": "how",
+				"key": "C"
+			},
+			{
+				"content": "than",
+				"key": "D"
+			}
+		],
+		"correct_answer": "B"
+	},
+	{
+		"id": 213,
+		"question": "As the desktop printer was out of service, we called a skilled............. yesterday for repairs.",
+		"answers": [
+			{
+				"content": "technician",
+				"key": "A"
+			},
+			{
+				"content": "factory",
+				"key": "B"
+			},
+			{
+				"content": "certificate",
+				"key": "C"
+			},
+			{
+				"content": "generator",
+				"key": "D"
+			}
+		],
+		"correct_answer": "A"
+	},
+	{
+		"id": 214,
+		"question": "The head of the marketing department attributed success in the overseas market to ..................motivated and hard-working employees.",
+		"answers": [
+			{
+				"content": "them",
+				"key": "A"
+			},
+			{
+				"content": "they",
+				"key": "B"
+			},
+			{
+				"content": "itself",
+				"key": "C"
+			},
+			{
+				"content": "its",
+				"key": "D"
+			}
+		],
+		"correct_answer": "D"
+	},
+	{
+		"id": 215,
+		"question": "We require all club members to............ their membership cards to the service desk in order to use the fitness room.",
+		"answers": [
+			{
+				"content": "notify",
+				"key": "A"
+			},
+			{
+				"content": "present",
+				"key": "B"
+			},
+			{
+				"content": "assign",
+				"key": "C"
+			},
+			{
+				"content": "permit",
+				"key": "D"
+			}
+		],
+		"correct_answer": "B"
+	},
+	{
+		"id": 216,
+		"question": "All the required application forms must be filled out.................... before they are tumed in to the appropriate office.",
+		"answers": [
+			{
+				"content": "complete",
+				"key": "A"
+			},
+			{
+				"content": "completes",
+				"key": "B"
+			},
+			{
+				"content": "completely",
+				"key": "C"
+			},
+			{
+				"content": "completed",
+				"key": "D"
+			}
+		],
+		"correct_answer": "C"
+	},
+	{
+		"id": 217,
+		"question": "A few executive positions have been........... for women as part of corporate efforts to place women in upper leve| positions.",
+		"answers": [
+			{
+				"content": "chaired",
+				"key": "A"
+			},
+			{
+				"content": "performed",
+				"key": "B"
+			},
+			{
+				"content": "reserved",
+				"key": "C"
+			},
+			{
+				"content": "presided",
+				"key": "D"
+			}
+		],
+		"correct_answer": "C"
+	},
+	{
+		"id": 218,
+		"question": "You are advised to check documents related to the continuation of health insurance coverage............. leaving your current job.",
+		"answers": [
+			{
+				"content": "before",
+				"key": "A"
+			},
+			{
+				"content": "therefore",
+				"key": "B"
+			},
+			{
+				"content": "until",
+				"key": "C"
+			},
+			{
+				"content": "because",
+				"key": "D"
+			}
+		],
+		"correct_answer": "A"
+	},
+	{
+		"id": 219,
+		"question": "Lightware Kitchen Goods Ltd. reserves the.............to deny any liability for damages caused by abnormal use.",
+		"answers": [
+			{
+				"content": "residence",
+				"key": "A"
+			},
+			{
+				"content": "right",
+				"key": "B"
+			},
+			{
+				"content": "endeavor",
+				"key": "C"
+			},
+			{
+				"content": "encompass",
+				"key": "D"
+			}
+		],
+		"correct_answer": "B"
+	},
+	{
+		"id": 220,
+		"question": ".......................merchandise may be exchanged for the same item in compliance with our exchange policy.",
+		"answers": [
+			{
+				"content": "Defective",
+				"key": "A"
+			},
+			{
+				"content": "Defect",
+				"key": "B"
+			},
+			{
+				"content": "Detects",
+				"key": "C"
+			},
+			{
+				"content": "Detected",
+				"key": "D"
+			}
+		],
+		"correct_answer": "A"
+	},
+	{
+		"id": 221,
+		"question": "Questions conceming the billing process will be............by customer service representatives while the billing department is closed.",
+		"answers": [
+			{
+				"content": "handled",
+				"key": "A"
+			},
+			{
+				"content": "replied",
+				"key": "B"
+			},
+			{
+				"content": "attended",
+				"key": "C"
+			},
+			{
+				"content": "exempted",
+				"key": "D"
+			}
+		],
+		"correct_answer": "A"
+	},
+	{
+		"id": 222,
+		"question": "The medications widely used for patients should be..................evaluated for long-term use.",
+		"answers": [
+			{
+				"content": "rigor",
+				"key": "A"
+			},
+			{
+				"content": "rigors",
+				"key": "B"
+			},
+			{
+				"content": "rigorous",
+				"key": "C"
+			},
+			{
+				"content": "rigorously",
+				"key": "D"
+			}
+		],
+		"correct_answer": "D"
+	},
+	{
+		"id": 223,
+		"question": "Along the shore of the lake is a recreational family camping site, complete...............fire places. showers and refrigerators.",
+		"answers": [
+			{
+				"content": "with",
+				"key": "A"
+			},
+			{
+				"content": "across",
+				"key": "B"
+			},
+			{
+				"content": "beside",
+				"key": "C"
+			},
+			{
+				"content": "from",
+				"key": "D"
+			}
+		],
+		"correct_answer": "A"
+	},
+	{
+		"id": 224,
+		"question": "Employment application forms completed by applicants must be.............. to Mr. Keith by Friday at noon.",
+		"answers": [
+			{
+				"content": "submitting",
+				"key": "A"
+			},
+			{
+				"content": "submitted",
+				"key": "B"
+			},
+			{
+				"content": "submit",
+				"key": "C"
+			},
+			{
+				"content": "submission",
+				"key": "D"
+			}
+		],
+		"correct_answer": "B"
+	},
+	{
+		"id": 225,
+		"question": "After weeks of intensive negotiations, they have.................agreed upon a minimum wage for on-site workers.",
+		"answers": [
+			{
+				"content": "finally",
+				"key": "A"
+			},
+			{
+				"content": "distinctively",
+				"key": "B"
+			},
+			{
+				"content": "extremely",
+				"key": "C"
+			},
+			{
+				"content": "predominantly",
+				"key": "D"
+			}
+		],
+		"correct_answer": "A"
+	},
+	{
+		"id": 226,
+		"question": ".........................please find the documents that contain confidential data on the visibility of operations.",
+		"answers": [
+			{
+				"content": "Enclosed",
+				"key": "A"
+			},
+			{
+				"content": "Enclose",
+				"key": "B"
+			},
+			{
+				"content": "Enclosure",
+				"key": "C"
+			},
+			{
+				"content": "Enclosing",
+				"key": "D"
+			}
+		],
+		"correct_answer": "A"
+	},
+	{
+		"id": 227,
+		"question": "If you are looking for a good restaurant in your area, look it up in our............. directory of local restaurants.",
+		"answers": [
+			{
+				"content": "various",
+				"key": "A"
+			},
+			{
+				"content": "apparent",
+				"key": "B"
+			},
+			{
+				"content": "redundant",
+				"key": "C"
+			},
+			{
+				"content": "comprehensive",
+				"key": "D"
+			}
+		],
+		"correct_answer": "D"
+	},
+	{
+		"id": 228,
+		"question": "ln order to..................the needs of demanding customers, the telecommunications industryis considering developing better functions.",
+		"answers": [
+			{
+				"content": "accommodates",
+				"key": "A"
+			},
+			{
+				"content": "accommodate",
+				"key": "B"
+			},
+			{
+				"content": "accommodating",
+				"key": "C"
+			},
+			{
+				"content": "accommodation",
+				"key": "D"
+			}
+		],
+		"correct_answer": "B"
+	},
+	{
+		"id": 229,
+		"question": "Installing air-cooling systems is scheduled to begin ...............at 10 A.M. and end at 3 P.M.",
+		"answers": [
+			{
+				"content": "promptly",
+				"key": "A"
+			},
+			{
+				"content": "vocally",
+				"key": "B"
+			},
+			{
+				"content": "openly",
+				"key": "C"
+			},
+			{
+				"content": "neutrally",
+				"key": "D"
+			}
+		],
+		"correct_answer": "A"
+	},
+	{
+		"id": 230,
+		"question": "The recent findings indicate that the effects of weight loss associated with calorie restriction are quite..................",
+		"answers": [
+			{
+				"content": "beneficial",
+				"key": "A"
+			},
+			{
+				"content": "benefits",
+				"key": "B"
+			},
+			{
+				"content": "beneficiary",
+				"key": "C"
+			},
+			{
+				"content": "beneﬁt",
+				"key": "D"
+			}
+		],
+		"correct_answer": "A"
+	},
+	{
+		"id": 231,
+		"question": "The finished report should not exceed 20 pages, including a one-page..........and should be turned in by this Friday.",
+		"answers": [
+			{
+				"content": "meaning",
+				"key": "A"
+			},
+			{
+				"content": "belief",
+				"key": "B"
+			},
+			{
+				"content": "excursion",
+				"key": "C"
+			},
+			{
+				"content": "abstract",
+				"key": "D"
+			}
+		],
+		"correct_answer": "D"
+	},
+	{
+		"id": 232,
+		"question": "The newly launched cell phones were designed to deliver exceptional ........... in various functions.",
+		"answers": [
+			{
+				"content": "performing",
+				"key": "A"
+			},
+			{
+				"content": "performed",
+				"key": "B"
+			},
+			{
+				"content": "perform",
+				"key": "C"
+			},
+			{
+				"content": "performance",
+				"key": "D"
+			}
+		],
+		"correct_answer": "D"
+	},
+	{
+		"id": 233,
+		"question": "Diamond Getaway travel agency is considered to be the...............source of worldwide trips among travelers.",
+		"answers": [
+			{
+				"content": "selective",
+				"key": "A"
+			},
+			{
+				"content": "expressive",
+				"key": "B"
+			},
+			{
+				"content": "definitive",
+				"key": "C"
+			},
+			{
+				"content": "competitive",
+				"key": "D"
+			}
+		],
+		"correct_answer": "C"
+	},
+	{
+		"id": 234,
+		"question": "It appears lo be a...................impossible plan to charge lees to cars visiting the city park on the weekend.",
+		"answers": [
+			{
+				"content": "nearing",
+				"key": "A"
+			},
+			{
+				"content": "nears",
+				"key": "B"
+			},
+			{
+				"content": "nearly",
+				"key": "C"
+			},
+			{
+				"content": "neared",
+				"key": "D"
+			}
+		],
+		"correct_answer": "C"
+	},
+	{
+		"id": 235,
+		"question": "People who have wanted to buy a home but couldn't afford to will be able to qualify, .................... interest rates remain moderate.",
+		"answers": [
+			{
+				"content": "whereas",
+				"key": "A"
+			},
+			{
+				"content": "as if",
+				"key": "B"
+			},
+			{
+				"content": "whether",
+				"key": "C"
+			},
+			{
+				"content": "assuming that",
+				"key": "D"
+			}
+		],
+		"correct_answer": "D"
+	},
+	{
+		"id": 236,
+		"question": "Those individuals who want to reschedule their................ with a doctor should contact ustwo days in advance.",
+		"answers": [
+			{
+				"content": "positions",
+				"key": "A"
+			},
+			{
+				"content": "assignments",
+				"key": "B"
+			},
+			{
+				"content": "subscriptions",
+				"key": "C"
+			},
+			{
+				"content": "appointments",
+				"key": "D"
+			}
+		],
+		"correct_answer": "D"
+	},
+	{
+		"id": 237,
+		"question": "The report shows that builders reserve the right to control the volume of the construction project on................. own.",
+		"answers": [
+			{
+				"content": "their",
+				"key": "A"
+			},
+			{
+				"content": "theirs",
+				"key": "B"
+			},
+			{
+				"content": "they",
+				"key": "C"
+			},
+			{
+				"content": "them",
+				"key": "D"
+			}
+		],
+		"correct_answer": "A"
+	},
+	{
+		"id": 238,
+		"question": "Information on customers' details can be stored on one diskette, as can the whole spreadsheet, and the diskettes can then be kept in a.........................place.",
+		"answers": [
+			{
+				"content": "cautious",
+				"key": "A"
+			},
+			{
+				"content": "distinguished",
+				"key": "B"
+			},
+			{
+				"content": "secure",
+				"key": "C"
+			},
+			{
+				"content": "strict",
+				"key": "D"
+			}
+		],
+		"correct_answer": "C"
+	},
+	{
+		"id": 239,
+		"question": "Superb.................... has been paid to even the smallest detail, as the project was expected to cost billions of dollars.",
+		"answers": [
+			{
+				"content": "attends",
+				"key": "A"
+			},
+			{
+				"content": "attention",
+				"key": "B"
+			},
+			{
+				"content": "attended",
+				"key": "C"
+			},
+			{
+				"content": "attendant",
+				"key": "D"
+			}
+		],
+		"correct_answer": "B"
+	},
+	{
+		"id": 240,
+		"question": "Mr. Hatcher is now curious about the general opinion on the matter of formatting a standard ..................... deluxe system instead of formatting a premiere one.",
+		"answers": [
+			{
+				"content": "so",
+				"key": "A"
+			},
+			{
+				"content": "nor",
+				"key": "B"
+			},
+			{
+				"content": "or",
+				"key": "C"
+			},
+			{
+				"content": "and",
+				"key": "D"
+			}
+		],
+		"correct_answer": "C"
+	},
+	{
+		"id": 241,
+		"question": "lf you need to hire...............help for your growing business, our experts can assist with the hiring process from start to finish.",
+		"answers": [
+			{
+				"content": "additions",
+				"key": "A"
+			},
+			{
+				"content": "additionally",
+				"key": "B"
+			},
+			{
+				"content": "additional",
+				"key": "C"
+			},
+			{
+				"content": "addition",
+				"key": "D"
+			}
+		],
+		"correct_answer": "C"
+	},
+	{
+		"id": 242,
+		"question": "Another computer system failure is going to happen again unless appropriate steps are taken to.................... it.",
+		"answers": [
+			{
+				"content": "prevent",
+				"key": "A"
+			},
+			{
+				"content": "upgrade",
+				"key": "B"
+			},
+			{
+				"content": "ignore",
+				"key": "C"
+			},
+			{
+				"content": "improve",
+				"key": "D"
+			}
+		],
+		"correct_answer": "A"
+	},
+	{
+		"id": 243,
+		"question": "All.....................to our fabulous national park will be given a complimentary lunch at the top of the hill.",
+		"answers": [
+			{
+				"content": "visit",
+				"key": "A"
+			},
+			{
+				"content": "visitations",
+				"key": "B"
+			},
+			{
+				"content": "visitors",
+				"key": "C"
+			},
+			{
+				"content": "visiting",
+				"key": "D"
+			}
+		],
+		"correct_answer": "C"
+	},
+	{
+		"id": 244,
+		"question": "Once you've decided to reduce................., there should be additional ways to halve the marketing costs.",
+		"answers": [
+			{
+				"content": "values",
+				"key": "A"
+			},
+			{
+				"content": "customs",
+				"key": "B"
+			},
+			{
+				"content": "refunds",
+				"key": "C"
+			},
+			{
+				"content": "expenses",
+				"key": "D"
+			}
+		],
+		"correct_answer": "D"
+	},
+	{
+		"id": 245,
+		"question": "Paulin Comwall Inc, has made an............... discovery people can share in no time ln the ﬁeld of inlormation technology.",
+		"answers": [
+			{
+				"content": "amaze",
+				"key": "A"
+			},
+			{
+				"content": "amazing",
+				"key": "B"
+			},
+			{
+				"content": "amazement",
+				"key": "C"
+			},
+			{
+				"content": "amazingly",
+				"key": "D"
+			}
+		],
+		"correct_answer": "B"
+	},
+	{
+		"id": 246,
+		"question": "The first draft of workshop proposals was due yesterday, ............... the director has granted us a short extension to our surprise.",
+		"answers": [
+			{
+				"content": "beyond",
+				"key": "A"
+			},
+			{
+				"content": "until",
+				"key": "B"
+			},
+			{
+				"content": "that",
+				"key": "C"
+			},
+			{
+				"content": "but",
+				"key": "D"
+			}
+		],
+		"correct_answer": "D"
+	},
+	{
+		"id": 247,
+		"question": "The company is going to carry out the proposal based on the infomtation provided in your letter of intent, so please submit ....................... application under this note'",
+		"answers": [
+			{
+				"content": "you",
+				"key": "A"
+			},
+			{
+				"content": "your",
+				"key": "B"
+			},
+			{
+				"content": "yourself",
+				"key": "C"
+			},
+			{
+				"content": "yours",
+				"key": "D"
+			}
+		],
+		"correct_answer": "B"
+	},
+	{
+		"id": 248,
+		"question": "After the introduction of collaboration tool programs, the company, which was in temporary financial trouble. was................ able to increase its market share.",
+		"answers": [
+			{
+				"content": "lastly",
+				"key": "A"
+			},
+			{
+				"content": "at first",
+				"key": "B"
+			},
+			{
+				"content": "meanwhile(0) initially",
+				"key": "C"
+			}
+		],
+		"correct_answer": "A"
+	},
+	{
+		"id": 249,
+		"question": "Many people call fairy tales too................... and obvious, but that's why they are needed.",
+		"answers": [
+			{
+				"content": "predicting",
+				"key": "A"
+			},
+			{
+				"content": "predicted",
+				"key": "B"
+			},
+			{
+				"content": "predictable",
+				"key": "C"
+			},
+			{
+				"content": "predictably",
+				"key": "D"
+			}
+		],
+		"correct_answer": "C"
+	},
+	{
+		"id": 250,
+		"question": "New recycling programs indicate that ........... the landlord or the property owners may schedule an appointment to get bulk pickup service in the same building.",
+		"answers": [
+			{
+				"content": "only",
+				"key": "A"
+			},
+			{
+				"content": "easily",
+				"key": "B"
+			},
+			{
+				"content": "simply",
+				"key": "C"
+			},
+			{
+				"content": "merely",
+				"key": "D"
+			}
+		],
+		"correct_answer": "A"
+	},
+	{
+		"id": 251,
+		"question": "During the sessions, speakers will discuss the process of..................a global service by opening doors to economic opportunities.",
+		"answers": [
+			{
+				"content": "establish",
+				"key": "A"
+			},
+			{
+				"content": "establishing",
+				"key": "B"
+			},
+			{
+				"content": "establishes",
+				"key": "C"
+			},
+			{
+				"content": "established",
+				"key": "D"
+			}
+		],
+		"correct_answer": "B"
+	},
+	{
+		"id": 252,
+		"question": "Please ................. your survey results to the director by the dale specified at the bottom of the screen.",
+		"answers": [
+			{
+				"content": "advise",
+				"key": "A"
+			},
+			{
+				"content": "urge",
+				"key": "B"
+			},
+			{
+				"content": "comply",
+				"key": "C"
+			},
+			{
+				"content": "submit",
+				"key": "D"
+			}
+		],
+		"correct_answer": "D"
+	},
+	{
+		"id": 253,
+		"question": "OFA representatives recently............... on-line tours and lound those kinds of tours to promote their products the most effective.",
+		"answers": [
+			{
+				"content": "conduct",
+				"key": "A"
+			},
+			{
+				"content": "conducted",
+				"key": "B"
+			},
+			{
+				"content": "to conduct",
+				"key": "C"
+			},
+			{
+				"content": "will conduct",
+				"key": "D"
+			}
+		],
+		"correct_answer": "B"
+	},
+	{
+		"id": 254,
+		"question": "Please do not.................. to share your opinions in the comment speoe below so that people can lind and consider possible alternatives.",
+		"answers": [
+			{
+				"content": "provide",
+				"key": "A"
+			},
+			{
+				"content": "hesitate",
+				"key": "B"
+			},
+			{
+				"content": "qualify",
+				"key": "C"
+			},
+			{
+				"content": "compete",
+				"key": "D"
+			}
+		],
+		"correct_answer": "B"
+	},
+	{
+		"id": 255,
+		"question": "Our GTA phone roaming service is suited for individuals who travel .................... anywhere in the world for business.",
+		"answers": [
+			{
+				"content": "regular",
+				"key": "A"
+			},
+			{
+				"content": "regularity",
+				"key": "B"
+			},
+			{
+				"content": "regularly",
+				"key": "C"
+			},
+			{
+				"content": "regulate",
+				"key": "D"
+			}
+		],
+		"correct_answer": "C"
+	},
+	{
+		"id": 256,
+		"question": "A banquet was held for researchers to be honored...............their exceptional achievements in creative research activities",
+		"answers": [
+			{
+				"content": "across",
+				"key": "A"
+			},
+			{
+				"content": "over",
+				"key": "B"
+			},
+			{
+				"content": "at",
+				"key": "C"
+			},
+			{
+				"content": "for",
+				"key": "D"
+			}
+		],
+		"correct_answer": "D"
+	},
+	{
+		"id": 257,
+		"question": "We are proud to announce their upcoming................ in an event whose purpose is to educate attendees on e-mail management tools.",
+		"answers": [
+			{
+				"content": "participation",
+				"key": "A"
+			},
+			{
+				"content": "participated",
+				"key": "B"
+			},
+			{
+				"content": "participating",
+				"key": "C"
+			},
+			{
+				"content": "participate",
+				"key": "D"
+			}
+		],
+		"correct_answer": "A"
+	},
+	{
+		"id": 258,
+		"question": "Anyone who has questions conceming our community service can leave a message ................... my secretary or our answering service.",
+		"answers": [
+			{
+				"content": "off",
+				"key": "A"
+			},
+			{
+				"content": "from",
+				"key": "B"
+			},
+			{
+				"content": "by",
+				"key": "C"
+			},
+			{
+				"content": "with",
+				"key": "D"
+			}
+		],
+		"correct_answer": "A"
+	},
+	{
+		"id": 259,
+		"question": "Requirements for the open position include basic computer skills and managerial experience in.................. sales.",
+		"answers": [
+			{
+				"content": "retailing",
+				"key": "A"
+			},
+			{
+				"content": "retail",
+				"key": "B"
+			},
+			{
+				"content": "retailer",
+				"key": "C"
+			},
+			{
+				"content": "retailed",
+				"key": "D"
+			}
+		],
+		"correct_answer": "B"
+	},
+	{
+		"id": 260,
+		"question": "According to the medical report released today. cholesterol lighting medicines may .................have protective effects against numerous uncured diseases.",
+		"answers": [
+			{
+				"content": "altogether",
+				"key": "A"
+			},
+			{
+				"content": "alone",
+				"key": "B"
+			},
+			{
+				"content": "also",
+				"key": "C"
+			},
+			{
+				"content": "almost",
+				"key": "D"
+			}
+		],
+		"correct_answer": "C"
+	},
+	{
+		"id": 261,
+		"question": "Employees who participate in this training program can leam a great deal about themselves as welt as experience in.......... personal and profession growth.",
+		"answers": [
+			{
+				"content": "every",
+				"key": "A"
+			},
+			{
+				"content": "both",
+				"key": "B"
+			},
+			{
+				"content": "either",
+				"key": "C"
+			},
+			{
+				"content": "whether",
+				"key": "D"
+			}
+		],
+		"correct_answer": "B"
+	},
+	{
+		"id": 262,
+		"question": "According to studies released yesterday, a significant number of organizations experienced a dramatic................. in electronic crime and data intrusions over the past year.",
+		"answers": [
+			{
+				"content": "increase",
+				"key": "A"
+			},
+			{
+				"content": "impression",
+				"key": "B"
+			},
+			{
+				"content": "access",
+				"key": "C"
+			},
+			{
+				"content": "accent",
+				"key": "D"
+			}
+		],
+		"correct_answer": "A"
+	},
+	{
+		"id": 263,
+		"question": "The president of Kasare Inc., ........................ announced that Lopez Davis, who has served the company for more than 30 years, would retire at the end of next month.",
+		"answers": [
+			{
+				"content": "regretting",
+				"key": "A"
+			},
+			{
+				"content": "regretted",
+				"key": "B"
+			},
+			{
+				"content": "regretfully",
+				"key": "C"
+			},
+			{
+				"content": "regretful",
+				"key": "D"
+			}
+		],
+		"correct_answer": "C"
+	},
+	{
+		"id": 264,
+		"question": "The new training program is intended to .................. leadership to develop professional competence through involvement in a range of professional development activities.",
+		"answers": [
+			{
+				"content": "remain",
+				"key": "A"
+			},
+			{
+				"content": "grant",
+				"key": "B"
+			},
+			{
+				"content": "serve",
+				"key": "C"
+			},
+			{
+				"content": "provide",
+				"key": "D"
+			}
+		],
+		"correct_answer": "C"
+	},
+	{
+		"id": 265,
+		"question": "Due to recent changes, Nordon Express ....................delivery of equipment effective the first day of the coming year.",
+		"answers": [
+			{
+				"content": "to discontinue",
+				"key": "A"
+			},
+			{
+				"content": "will discontinue",
+				"key": "B"
+			},
+			{
+				"content": "discontinued",
+				"key": "C"
+			},
+			{
+				"content": "have discontinue",
+				"key": "D"
+			}
+		],
+		"correct_answer": "C"
+	},
+	{
+		"id": 266,
+		"question": "Employees must get approval from their supervisors...............deleting data even if the data seem unused.",
+		"answers": [
+			{
+				"content": "before",
+				"key": "A"
+			},
+			{
+				"content": "until",
+				"key": "B"
+			},
+			{
+				"content": "from",
+				"key": "C"
+			},
+			{
+				"content": "during",
+				"key": "D"
+			}
+		],
+		"correct_answer": "A"
+	},
+	{
+		"id": 267,
+		"question": "In addition to........... a separate online site, new products will be available through traditional retailers all over the world.",
+		"answers": [
+			{
+				"content": "launched",
+				"key": "A"
+			},
+			{
+				"content": "launching",
+				"key": "B"
+			},
+			{
+				"content": "launch",
+				"key": "C"
+			},
+			{
+				"content": "launches",
+				"key": "D"
+			}
+		],
+		"correct_answer": "B"
+	},
+	{
+		"id": 268,
+		"question": "Tomorrow's one-to-one training session held in a boardroom is............... for supervisors and new staff members.",
+		"answers": [
+			{
+				"content": "intended",
+				"key": "A"
+			},
+			{
+				"content": "based",
+				"key": "B"
+			},
+			{
+				"content": "agreed",
+				"key": "C"
+			},
+			{
+				"content": "invited",
+				"key": "D"
+			}
+		],
+		"correct_answer": "I"
+	},
+	{
+		"id": 269,
+		"question": "",
+		"answers": [
+			{
+				"content": "You are advised to contact us immediately ................... technical problems with your computer system don't seem to be resolved.(Al why",
+				"key": "A"
+			},
+			{
+				"content": "if",
+				"key": "B"
+			},
+			{
+				"content": "due to",
+				"key": "C"
+			},
+			{
+				"content": "about",
+				"key": "D"
+			}
+		],
+		"correct_answer": "B"
+	},
+	{
+		"id": 270,
+		"question": "......................all the provisions of the merger are fully implemented, the two companies will expand their pannerships to provide an even higher level of quality.",
+		"answers": [
+			{
+				"content": "Soon",
+				"key": "A"
+			},
+			{
+				"content": "Then",
+				"key": "B"
+			},
+			{
+				"content": "Later",
+				"key": "C"
+			},
+			{
+				"content": "Once",
+				"key": "D"
+			}
+		],
+		"correct_answer": "D"
+	},
+	{
+		"id": 271,
+		"question": "This letter is to solicit..................of candidates to be considered for the vacant positions in sales that should be filled right away.",
+		"answers": [
+			{
+				"content": "nominate",
+				"key": "A"
+			},
+			{
+				"content": "nominations",
+				"key": "B"
+			},
+			{
+				"content": "nominating",
+				"key": "C"
+			},
+			{
+				"content": "nominated",
+				"key": "D"
+			}
+		],
+		"correct_answer": "B"
+	},
+	{
+		"id": 272,
+		"question": "Our investment will lead to more improved public services, considerable cost reductions as well as further.......... ",
+		"answers": [
+			{
+				"content": "economics",
+				"key": "A"
+			},
+			{
+				"content": "harvest",
+				"key": "B"
+			},
+			{
+				"content": "productivity",
+				"key": "C"
+			},
+			{
+				"content": "measures",
+				"key": "D"
+			}
+		],
+		"correct_answer": "D"
+	},
+	{
+		"id": 273,
+		"question": "The names of upper management to ..................you must report will be provided in order to get budgets approved for projects.",
+		"answers": [
+			{
+				"content": "whom",
+				"key": "A"
+			},
+			{
+				"content": "whoever",
+				"key": "B"
+			},
+			{
+				"content": "what",
+				"key": "C"
+			},
+			{
+				"content": "where",
+				"key": "D"
+			}
+		],
+		"correct_answer": "B"
+	},
+	{
+		"id": 274,
+		"question": "Successful candidates will receive a competitive salary and maximum benefits ................... to those which they have received from their previous jobs.",
+		"answers": [
+			{
+				"content": "unitorm",
+				"key": "A"
+			},
+			{
+				"content": "even",
+				"key": "B"
+			},
+			{
+				"content": "far",
+				"key": "C"
+			},
+			{
+				"content": "equal",
+				"key": "D"
+			}
+		],
+		"correct_answer": "D"
+	},
+	{
+		"id": 275,
+		"question": "It is through broadcast media such as television and radio that companies.................. place an advertisement to attract prospective customers.",
+		"answers": [
+			{
+				"content": "predominant",
+				"key": "A"
+			},
+			{
+				"content": "predominantly",
+				"key": "B"
+			},
+			{
+				"content": "predominating",
+				"key": "C"
+			},
+			{
+				"content": "predominated",
+				"key": "D"
+			}
+		],
+		"correct_answer": "B"
+	},
+	{
+		"id": 276,
+		"question": "It you want to purchase a lower priced ticket, either contact us through regular mail ................call our hotline and then we will send you an application immediately.",
+		"answers": [
+			{
+				"content": "or",
+				"key": "A"
+			},
+			{
+				"content": "neither",
+				"key": "B"
+			},
+			{
+				"content": "nor",
+				"key": "C"
+			},
+			{
+				"content": "both",
+				"key": "D"
+			}
+		],
+		"correct_answer": "A"
+	},
+	{
+		"id": 277,
+		"question": "In order to brand your business, you'd better include your.................in every letter you send to customers, which helps remind them of whom they do business with.",
+		"answers": [
+			{
+				"content": "signing",
+				"key": "A"
+			},
+			{
+				"content": "signed",
+				"key": "B"
+			},
+			{
+				"content": "signature",
+				"key": "C"
+			},
+			{
+				"content": "to sign",
+				"key": "D"
+			}
+		],
+		"correct_answer": "C"
+	},
+	{
+		"id": 278,
+		"question": "We are proud to announce that Dax Shepard has been.....................as our new managing director to oversee corporate expansion in Europe.",
+		"answers": [
+			{
+				"content": "deposited",
+				"key": "A"
+			},
+			{
+				"content": "predicted",
+				"key": "B"
+			},
+			{
+				"content": "operated",
+				"key": "C"
+			},
+			{
+				"content": "appointed",
+				"key": "D"
+			}
+		],
+		"correct_answer": "D"
+	},
+	{
+		"id": 279,
+		"question": "The general manager has..................that any information customers enter be used only to respond to their inquiries and requests.",
+		"answers": [
+			{
+				"content": "suggested",
+				"key": "A"
+			},
+			{
+				"content": "suggesting",
+				"key": "B"
+			},
+			{
+				"content": "suggest",
+				"key": "C"
+			},
+			{
+				"content": "suggestion",
+				"key": "D"
+			}
+		],
+		"correct_answer": "A"
+	},
+	{
+		"id": 280,
+		"question": "This list is comprised of thousands of ............ to various magazines, including computers, automobiles, garments and electronics.",
+		"answers": [
+			{
+				"content": "spectators",
+				"key": "A"
+			},
+			{
+				"content": "witnesses",
+				"key": "B"
+			},
+			{
+				"content": "participants",
+				"key": "C"
+			},
+			{
+				"content": "subscribers",
+				"key": "D"
+			}
+		],
+		"correct_answer": "D"
+	},
+	{
+		"id": 281,
+		"question": "Additional information on.......... financial aid such as grants and scholarships can be obtained from career offices at each university.",
+		"answers": [
+			{
+				"content": "extend",
+				"key": "A"
+			},
+			{
+				"content": "extensive",
+				"key": "B"
+			},
+			{
+				"content": "extent",
+				"key": "C"
+			},
+			{
+				"content": "extension",
+				"key": "D"
+			}
+		],
+		"correct_answer": "B"
+	},
+	{
+		"id": 282,
+		"question": "We are opening a fully renovated condominium............. located in a quiet setting, and complete with many amenities.",
+		"answers": [
+			{
+				"content": "conveniently",
+				"key": "A"
+			},
+			{
+				"content": "correctly",
+				"key": "B"
+			},
+			{
+				"content": "greatly",
+				"key": "C"
+			},
+			{
+				"content": "widely",
+				"key": "D"
+			}
+		],
+		"correct_answer": "A"
+	},
+	{
+		"id": 283,
+		"question": "................. for reconstruction contracts has been getting stiffer over the years since it can generate enormously lucrative earnings.",
+		"answers": [
+			{
+				"content": "Competitively",
+				"key": "A"
+			},
+			{
+				"content": "Competition",
+				"key": "B"
+			},
+			{
+				"content": "Competitive",
+				"key": "C"
+			},
+			{
+				"content": "Competes",
+				"key": "D"
+			}
+		],
+		"correct_answer": "B"
+	},
+	{
+		"id": 284,
+		"question": "Many people were standing in line outside of the box office to.................. a limited number of low cost tickets, which are offered asspecials each month.",
+		"answers": [
+			{
+				"content": "support",
+				"key": "A"
+			},
+			{
+				"content": "achieve",
+				"key": "B"
+			},
+			{
+				"content": "purchase",
+				"key": "C"
+			},
+			{
+				"content": "replace",
+				"key": "D"
+			}
+		],
+		"correct_answer": "C"
+	},
+	{
+		"id": 285,
+		"question": "The article provides readers with tips on how to get.................. out of debt by setting ﬁnancial goals and eliminating unnecessary spending.",
+		"answers": [
+			{
+				"content": "totally",
+				"key": "A"
+			},
+			{
+				"content": "total",
+				"key": "B"
+			},
+			{
+				"content": "totaled",
+				"key": "C"
+			},
+			{
+				"content": "totaling",
+				"key": "D"
+			}
+		],
+		"correct_answer": "A"
+	},
+	{
+		"id": 286,
+		"question": ".............. all the alterations to the plan have been approved, they should be submitted to the appropriate office no later than the end of the month.",
+		"answers": [
+			{
+				"content": "Like",
+				"key": "A"
+			},
+			{
+				"content": "Once",
+				"key": "B"
+			},
+			{
+				"content": "Unless",
+				"key": "C"
+			},
+			{
+				"content": "Despite",
+				"key": "D"
+			}
+		],
+		"correct_answer": "B"
+	},
+	{
+		"id": 287,
+		"question": "Ms. Cordova was struggling to successfully complete the task assigned to her by............",
+		"answers": [
+			{
+				"content": "herself",
+				"key": "A"
+			},
+			{
+				"content": "he",
+				"key": "B"
+			},
+			{
+				"content": "hers",
+				"key": "C"
+			},
+			{
+				"content": "she",
+				"key": "D"
+			}
+		],
+		"correct_answer": "A"
+	},
+	{
+		"id": 288,
+		"question": "The general hospital was able to improve patient care significantly without hiring more staff by.................. in a new information system.",
+		"answers": [
+			{
+				"content": "invests",
+				"key": "A"
+			},
+			{
+				"content": "invested",
+				"key": "B"
+			},
+			{
+				"content": "investing",
+				"key": "C"
+			},
+			{
+				"content": "invest",
+				"key": "D"
+			}
+		],
+		"correct_answer": "C"
+	},
+	{
+		"id": 289,
+		"question": "Automakers are recovering from weak results ...................a series of complicated restructuring processes, and experiencing increased revenues and profits as a result.",
+		"answers": [
+			{
+				"content": "through",
+				"key": "A"
+			},
+			{
+				"content": "behind",
+				"key": "B"
+			},
+			{
+				"content": "above",
+				"key": "C"
+			},
+			{
+				"content": "except",
+				"key": "D"
+			}
+		],
+		"correct_answer": "A"
+	},
+	{
+		"id": 290,
+		"question": "Our experienced and skilled technicians can be of much help in the event that you.............. delete something essential from the program.",
+		"answers": [
+			{
+				"content": "accident",
+				"key": "A"
+			},
+			{
+				"content": "accidental",
+				"key": "B"
+			},
+			{
+				"content": "accidents",
+				"key": "C"
+			},
+			{
+				"content": "accidentally",
+				"key": "D"
+			}
+		],
+		"correct_answer": "D"
+	},
+	{
+		"id": 291,
+		"question": "Most companies like all their employees .................... on innovative products and to believe passionately in their mission.",
+		"answers": [
+			{
+				"content": "to work",
+				"key": "A"
+			},
+			{
+				"content": "works",
+				"key": "B"
+			},
+			{
+				"content": "be working",
+				"key": "C"
+			},
+			{
+				"content": "will work",
+				"key": "D"
+			}
+		],
+		"correct_answer": "A"
+	},
+	{
+		"id": 292,
+		"question": "Researching an employer's organizational structure, products, services and reputation is a highly recommended........... for those preparing for job interviews.",
+		"answers": [
+			{
+				"content": "practice",
+				"key": "A"
+			},
+			{
+				"content": "reference",
+				"key": "B"
+			},
+			{
+				"content": "plot",
+				"key": "C"
+			},
+			{
+				"content": "resource",
+				"key": "D"
+			}
+		],
+		"correct_answer": "A"
+	},
+	{
+		"id": 293,
+		"question": "Under no circumstances may you copy or distribute any secret information............... appropriate written permission from us.",
+		"answers": [
+			{
+				"content": "upon",
+				"key": "A"
+			},
+			{
+				"content": "without",
+				"key": "B"
+			},
+			{
+				"content": "until",
+				"key": "C"
+			},
+			{
+				"content": "along",
+				"key": "D"
+			}
+		],
+		"correct_answer": "A"
+	},
+	{
+		"id": 294,
+		"question": "It is important to look through the documents............ that everyone in charge can know at which stage they should be completed.",
+		"answers": [
+			{
+				"content": "concerning",
+				"key": "A"
+			},
+			{
+				"content": "over",
+				"key": "B"
+			},
+			{
+				"content": "so",
+				"key": "C"
+			},
+			{
+				"content": "since",
+				"key": "D"
+			}
+		],
+		"correct_answer": "C"
+	},
+	{
+		"id": 295,
+		"question": "Most of the hotels have their own pool and sun terrace with a pool-side bar which serves drinks and snacks.............. the day.",
+		"answers": [
+			{
+				"content": "throughout",
+				"key": "A"
+			},
+			{
+				"content": "from",
+				"key": "B"
+			},
+			{
+				"content": "about",
+				"key": "C"
+			},
+			{
+				"content": "between",
+				"key": "D"
+			}
+		],
+		"correct_answer": "A"
+	},
+	{
+		"id": 296,
+		"question": "When the.............. for this new safety policy was under consideration by the managers, a number of experts were asked for their comments.",
+		"answers": [
+			{
+				"content": "proposing",
+				"key": "A"
+			},
+			{
+				"content": "propose",
+				"key": "B"
+			},
+			{
+				"content": "proposes",
+				"key": "C"
+			},
+			{
+				"content": "proposal",
+				"key": "D"
+			}
+		],
+		"correct_answer": "D"
+	},
+	{
+		"id": 297,
+		"question": "We do apologize for the inconvenience resulting from the service which is now temporarily....................",
+		"answers": [
+			{
+				"content": "unavailable",
+				"key": "A"
+			},
+			{
+				"content": "related",
+				"key": "B"
+			},
+			{
+				"content": "stylish",
+				"key": "C"
+			},
+			{
+				"content": "disinterested",
+				"key": "D"
+			}
+		],
+		"correct_answer": "A"
+	},
+	{
+		"id": 298,
+		"question": "The restaurant, closed for extensive renovations, assured customers that it ....................them with better quality food and exceptional service.",
+		"answers": [
+			{
+				"content": "will provide",
+				"key": "A"
+			},
+			{
+				"content": "provide",
+				"key": "B"
+			},
+			{
+				"content": "providing",
+				"key": "C"
+			},
+			{
+				"content": "to provide",
+				"key": "D"
+			}
+		],
+		"correct_answer": "A"
+	},
+	{
+		"id": 299,
+		"question": "Any employees who are................late or absent from work may be subject to disciplinary actions, regardless of their position.",
+		"answers": [
+			{
+				"content": "consistently",
+				"key": "A"
+			},
+			{
+				"content": "steadily",
+				"key": "B"
+			},
+			{
+				"content": "sensibly",
+				"key": "C"
+			},
+			{
+				"content": "exactly",
+				"key": "D"
+			}
+		],
+		"correct_answer": "A"
+	},
+	{
+		"id": 300,
+		"question": "Most of the employees are entitled to a maximum of one hour tor a lunch break, depending on...............assigned work schedule.",
+		"answers": [
+			{
+				"content": "ours",
+				"key": "A"
+			},
+			{
+				"content": "their",
+				"key": "B"
+			},
+			{
+				"content": "theirs",
+				"key": "C"
+			},
+			{
+				"content": "ourselves",
+				"key": "D"
+			}
+		],
+		"correct_answer": "B"
+	},
+	{
+		"id": 301,
+		"question": "Your personal information, including credit card numbers, mailing address, e-mail address and phone numbers, will be collected in order for us to............ your order for products.",
+		"answers": [
+			{
+				"content": "affect",
+				"key": "A"
+			},
+			{
+				"content": "contain",
+				"key": "B"
+			},
+			{
+				"content": "fulfill",
+				"key": "C"
+			},
+			{
+				"content": "mention",
+				"key": "D"
+			}
+		],
+		"correct_answer": "C"
+	},
+	{
+		"id": 302,
+		"question": "A questionnaire asked............. to evaluate the appearance and the overall brightness of the new merchandise.",
+		"answers": [
+			{
+				"content": "shopping",
+				"key": "A"
+			},
+			{
+				"content": "shoppers",
+				"key": "B"
+			},
+			{
+				"content": "to shop",
+				"key": "C"
+			},
+			{
+				"content": "shopper",
+				"key": "D"
+			}
+		],
+		"correct_answer": "B"
+	},
+	{
+		"id": 303,
+		"question": "When the installation process is ........... and an \"OK\" screen appears on the computer, please remove the last CD and click \"reboot.\"",
+		"answers": [
+			{
+				"content": "complete",
+				"key": "A"
+			},
+			{
+				"content": "entire",
+				"key": "B"
+			},
+			{
+				"content": "whole",
+				"key": "C"
+			},
+			{
+				"content": "total",
+				"key": "D"
+			}
+		],
+		"correct_answer": "A"
+	},
+	{
+		"id": 304,
+		"question": "All the workers are required to............verify that the proper maintenance of storage facilities is conducted with extreme care.",
+		"answers": [
+			{
+				"content": "periodic",
+				"key": "A"
+			},
+			{
+				"content": "periodical",
+				"key": "B"
+			},
+			{
+				"content": "periodically",
+				"key": "C"
+			},
+			{
+				"content": "period",
+				"key": "D"
+			}
+		],
+		"correct_answer": "C"
+	},
+	{
+		"id": 305,
+		"question": "The growing number of vacant housing units on the.......for more than 6 months implies that excessive supply still exists.",
+		"answers": [
+			{
+				"content": "sale",
+				"key": "A"
+			},
+			{
+				"content": "place",
+				"key": "B"
+			},
+			{
+				"content": "advertisement",
+				"key": "C"
+			},
+			{
+				"content": "market",
+				"key": "D"
+			}
+		],
+		"correct_answer": "D"
+	},
+	{
+		"id": 306,
+		"question": "The elegant hotel we stayed at was........... and bright and had a private entrance and patio with a view of the ocean.",
+		"answers": [
+			{
+				"content": "spacing",
+				"key": "A"
+			},
+			{
+				"content": "spacious",
+				"key": "B"
+			},
+			{
+				"content": "spaciousness",
+				"key": "C"
+			},
+			{
+				"content": "spaces",
+				"key": "D"
+			}
+		],
+		"correct_answer": "B"
+	},
+	{
+		"id": 307,
+		"question": "..................to focus resources and investment on this rapidly growing business, we have to make a strategic decision.",
+		"answers": [
+			{
+				"content": "Whether",
+				"key": "A"
+			},
+			{
+				"content": "According",
+				"key": "B"
+			},
+			{
+				"content": "In order",
+				"key": "C"
+			},
+			{
+				"content": "How",
+				"key": "D"
+			}
+		],
+		"correct_answer": "C"
+	},
+	{
+		"id": 308,
+		"question": "We, one of the leading manufacturing companies, would like to build a........... beneficial relationship with your esteemed company.",
+		"answers": [
+			{
+				"content": "precisely",
+				"key": "A"
+			},
+			{
+				"content": "respectively",
+				"key": "B"
+			},
+			{
+				"content": "punctually",
+				"key": "C"
+			},
+			{
+				"content": "mutually",
+				"key": "D"
+			}
+		],
+		"correct_answer": "D"
+	},
+	{
+		"id": 309,
+		"question": "Please read the terms and conditions carefully to determine whether or not you can request a refund or...................for the products you ordered.",
+		"answers": [
+			{
+				"content": "replacement",
+				"key": "A"
+			},
+			{
+				"content": "complaint",
+				"key": "B"
+			},
+			{
+				"content": "receipt",
+				"key": "C"
+			},
+			{
+				"content": "promotion",
+				"key": "D"
+			}
+		],
+		"correct_answer": "A"
+	},
+	{
+		"id": 310,
+		"question": "Applicants are advised to fill out an application form concisely to impress potential employers, without being too............ or boring.",
+		"answers": [
+			{
+				"content": "repeating",
+				"key": "A"
+			},
+			{
+				"content": "repetitive",
+				"key": "B"
+			},
+			{
+				"content": "repetition",
+				"key": "C"
+			},
+			{
+				"content": "repeat",
+				"key": "D"
+			}
+		],
+		"correct_answer": "B"
+	},
+	{
+		"id": 311,
+		"question": "Passengers will get to their destination on time............. our departure time is a little late due to a mechanical problem.",
+		"answers": [
+			{
+				"content": "as if",
+				"key": "A"
+			},
+			{
+				"content": "while",
+				"key": "B"
+			},
+			{
+				"content": "because",
+				"key": "C"
+			},
+			{
+				"content": "even though",
+				"key": "D"
+			}
+		],
+		"correct_answer": "D"
+	},
+	{
+		"id": 312,
+		"question": "All the terms of the agreement must be clear so that the meaning and intent won't be.............. by either party.",
+		"answers": [
+			{
+				"content": "misinterpret",
+				"key": "A"
+			},
+			{
+				"content": "misinterpretation",
+				"key": "B"
+			},
+			{
+				"content": "misinterpreted",
+				"key": "C"
+			},
+			{
+				"content": "misinterpreting",
+				"key": "D"
+			}
+		],
+		"correct_answer": "A"
+	},
+	{
+		"id": 313,
+		"question": "People don't put much importance into a powerful marketing tool and.............miss the opportunity to gain more potential customers.",
+		"answers": [
+			{
+				"content": "now that",
+				"key": "A"
+			},
+			{
+				"content": "in case",
+				"key": "B"
+			},
+			{
+				"content": "therefore",
+				"key": "C"
+			},
+			{
+				"content": "otherwise",
+				"key": "D"
+			}
+		],
+		"correct_answer": "A"
+	},
+	{
+		"id": 314,
+		"question": "The plans are under serious consideration ...................extension of better garbage collection, street maintenance and adequate sewage services into the province.",
+		"answers": [
+			{
+				"content": "for",
+				"key": "A"
+			},
+			{
+				"content": "next",
+				"key": "B"
+			},
+			{
+				"content": "while",
+				"key": "C"
+			},
+			{
+				"content": "onto",
+				"key": "D"
+			}
+		],
+		"correct_answer": "A"
+	},
+	{
+		"id": 315,
+		"question": "You'd better consider the factors that assess the effectiveness of the................ training system and implement corrective actions in a timely manner.",
+		"answers": [
+			{
+				"content": "enlisted",
+				"key": "A"
+			},
+			{
+				"content": "opportune",
+				"key": "B"
+			},
+			{
+				"content": "international",
+				"key": "C"
+			},
+			{
+				"content": "appropriate",
+				"key": "D"
+			}
+		],
+		"correct_answer": "A"
+	},
+	{
+		"id": 316,
+		"question": "We need to reserve a restaurant............a celebration party in honor of a newly appointed personnel manager.",
+		"answers": [
+			{
+				"content": "fur",
+				"key": "A"
+			},
+			{
+				"content": "from",
+				"key": "B"
+			},
+			{
+				"content": "onto",
+				"key": "C"
+			},
+			{
+				"content": "off",
+				"key": "D"
+			}
+		],
+		"correct_answer": "A"
+	},
+	{
+		"id": 317,
+		"question": "..................habitually answers incoming phone calls and signs for packages while in the office.",
+		"answers": [
+			{
+				"content": "She",
+				"key": "A"
+			},
+			{
+				"content": "Her",
+				"key": "B"
+			},
+			{
+				"content": "Hers",
+				"key": "C"
+			},
+			{
+				"content": "Herself",
+				"key": "D"
+			}
+		],
+		"correct_answer": "A"
+	},
+	{
+		"id": 318,
+		"question": "A new shipment cl popular bargain books has just ....................here in perfect condition and will be on display this aﬁernoon.",
+		"answers": [
+			{
+				"content": "sent",
+				"key": "A"
+			},
+			{
+				"content": "delayed",
+				"key": "B"
+			},
+			{
+				"content": "arrived",
+				"key": "C"
+			},
+			{
+				"content": "exammed",
+				"key": "D"
+			}
+		],
+		"correct_answer": "A"
+	},
+	{
+		"id": 319,
+		"question": "The Catering & Event Department enjoys solid reputation for extraordinary...........provided in customers.",
+		"answers": [
+			{
+				"content": "sewer",
+				"key": "A"
+			},
+			{
+				"content": "service",
+				"key": "B"
+			},
+			{
+				"content": "servicing",
+				"key": "C"
+			},
+			{
+				"content": "sews",
+				"key": "D"
+			}
+		],
+		"correct_answer": "A"
+	},
+	{
+		"id": 320,
+		"question": "It is anﬁcipaled tnal those............looking Io employment wlll be successful in the coming months.",
+		"answers": [
+			{
+				"content": "currently",
+				"key": "A"
+			},
+			{
+				"content": "signiﬁcantly",
+				"key": "B"
+			},
+			{
+				"content": "completely",
+				"key": "C"
+			},
+			{
+				"content": "slightly",
+				"key": "D"
+			}
+		],
+		"correct_answer": "A"
+	},
+	{
+		"id": 321,
+		"question": "Hart House Inc. ls wideiy recognized for ..........all its energy and resources to supporting social activities.",
+		"answers": [
+			{
+				"content": "earning",
+				"key": "A"
+			},
+			{
+				"content": "valuing",
+				"key": "B"
+			},
+			{
+				"content": "benefitng",
+				"key": "C"
+			},
+			{
+				"content": "dedicating",
+				"key": "D"
+			}
+		],
+		"correct_answer": "A"
+	},
+	{
+		"id": 322,
+		"question": "According to a new study by Single Click, online shoppers search the lntemei at least one week prior actually 'purchasing their products.",
+		"answers": [
+			{
+				"content": "to",
+				"key": "A"
+			},
+			{
+				"content": "aﬂer",
+				"key": "B"
+			},
+			{
+				"content": "of",
+				"key": "C"
+			},
+			{
+				"content": "about",
+				"key": "D"
+			}
+		],
+		"correct_answer": "A"
+	},
+	{
+		"id": 323,
+		"question": "Most stores..............special discounts. coupons on gifts. and personalizacl gifts to retain their existing customers.",
+		"answers": [
+			{
+				"content": "offering",
+				"key": "A"
+			},
+			{
+				"content": "be offered",
+				"key": "B"
+			},
+			{
+				"content": "to offer",
+				"key": "C"
+			},
+			{
+				"content": "are offering",
+				"key": "D"
+			}
+		],
+		"correct_answer": "A"
+	},
+	{
+		"id": 324,
+		"question": ".......................there are so many stores throughout the district, any type of bad publicity carries a lot of risk",
+		"answers": [
+			{
+				"content": "Since",
+				"key": "A"
+			},
+			{
+				"content": "If",
+				"key": "B"
+			},
+			{
+				"content": "So",
+				"key": "C"
+			},
+			{
+				"content": "Unless",
+				"key": "D"
+			}
+		],
+		"correct_answer": "A"
+	},
+	{
+		"id": 325,
+		"question": "HPH Press achieved the,,,,,,,,,,, overall rating from its custcmers in a recent independent survey at nearly 10.000 customers.",
+		"answers": [
+			{
+				"content": "higher",
+				"key": "A"
+			},
+			{
+				"content": "highest",
+				"key": "B"
+			},
+			{
+				"content": "more highly",
+				"key": "C"
+			},
+			{
+				"content": "most highly",
+				"key": "D"
+			}
+		],
+		"correct_answer": "A"
+	},
+	{
+		"id": 326,
+		"question": "I would not like to recommend the Westin Orlando Hotel,.........considenng that it has poor quaiity room service.",
+		"answers": [
+			{
+				"content": "greatly",
+				"key": "A"
+			},
+			{
+				"content": "especially",
+				"key": "B"
+			},
+			{
+				"content": "unusually",
+				"key": "C"
+			},
+			{
+				"content": "positively",
+				"key": "D"
+			}
+		],
+		"correct_answer": "A"
+	},
+	{
+		"id": 327,
+		"question": "Drivers are required to carry................liability insurance policy at all times in their cars in case of an accident.",
+		"answers": [
+			{
+				"content": "their",
+				"key": "A"
+			},
+			{
+				"content": "theirs",
+				"key": "B"
+			},
+			{
+				"content": "their",
+				"key": "C"
+			},
+			{
+				"content": "themsefves",
+				"key": "D"
+			}
+		],
+		"correct_answer": "A"
+	},
+	{
+		"id": 328,
+		"question": ".........................the two copy machines differ in a few of their functions, you will be soon accustomed to operating them.",
+		"answers": [
+			{
+				"content": "Fiather than",
+				"key": "A"
+			},
+			{
+				"content": "Despite",
+				"key": "B"
+			},
+			{
+				"content": "Although",
+				"key": "C"
+			},
+			{
+				"content": "In order that",
+				"key": "D"
+			}
+		],
+		"correct_answer": "A"
+	},
+	{
+		"id": 329,
+		"question": "Mr. Tanaka decided to resign, because a significant drop in customer satisfaction has had an adverse impact on sales ..............",
+		"answers": [
+			{
+				"content": "grower",
+				"key": "A"
+			},
+			{
+				"content": "grow",
+				"key": "B"
+			},
+			{
+				"content": "grown",
+				"key": "C"
+			},
+			{
+				"content": "growth",
+				"key": "D"
+			}
+		],
+		"correct_answer": "A"
+	},
+	{
+		"id": 330,
+		"question": "Most of the autornobile companies are likely to face.............. sales in midsize and large cars as a result of the continueing recession",
+		"answers": [
+			{
+				"content": "declining",
+				"key": "A"
+			},
+			{
+				"content": "declined",
+				"key": "B"
+			},
+			{
+				"content": "decline",
+				"key": "C"
+			},
+			{
+				"content": "to decline",
+				"key": "D"
+			}
+		],
+		"correct_answer": "A"
+	},
+	{
+		"id": 331,
+		"question": "Although some studies report different effects of overtime work, they are......... with respect to productivity levels.",
+		"answers": [
+			{
+				"content": "comparing",
+				"key": "A"
+			},
+			{
+				"content": "comparable",
+				"key": "B"
+			},
+			{
+				"content": "compare",
+				"key": "C"
+			},
+			{
+				"content": "compares",
+				"key": "D"
+			}
+		],
+		"correct_answer": "A"
+	},
+	{
+		"id": 332,
+		"question": "Your membership renewal will entitle you lo a wide variety of beneﬁts that........... from innovative services to effective programs.",
+		"answers": [
+			{
+				"content": "distinguish",
+				"key": "A"
+			},
+			{
+				"content": "range",
+				"key": "B"
+			},
+			{
+				"content": "refrain",
+				"key": "C"
+			},
+			{
+				"content": "prohibit",
+				"key": "D"
+			}
+		],
+		"correct_answer": "A"
+	},
+	{
+		"id": 333,
+		"question": "Applicants who possess interpersonal skills and strong analytical skills to gather and analyze information for reports will be especially...................",
+		"answers": [
+			{
+				"content": "prefer",
+				"key": "A"
+			},
+			{
+				"content": "preferred",
+				"key": "B"
+			},
+			{
+				"content": "preferable",
+				"key": "C"
+			},
+			{
+				"content": "preferring",
+				"key": "D"
+			}
+		],
+		"correct_answer": "A"
+	},
+	{
+		"id": 334,
+		"question": "Now that our site is currently ............essentialmaintenance work. we apologize for the inconvenience and ask that you try again later on.",
+		"answers": [
+			{
+				"content": "proceeding",
+				"key": "A"
+			},
+			{
+				"content": "facilitating",
+				"key": "B"
+			},
+			{
+				"content": "installing",
+				"key": "C"
+			},
+			{
+				"content": "undergoing",
+				"key": "D"
+			}
+		],
+		"correct_answer": "A"
+	},
+	{
+		"id": 335,
+		"question": "You are cordially irwrted to attend a ............ party thrown in honor of employees who have served the company for more than thirty years.",
+		"answers": [
+			{
+				"content": "retirement",
+				"key": "A"
+			},
+			{
+				"content": "retire",
+				"key": "B"
+			},
+			{
+				"content": "retires",
+				"key": "C"
+			},
+			{
+				"content": "retired",
+				"key": "D"
+			}
+		],
+		"correct_answer": "A"
+	},
+	{
+		"id": 336,
+		"question": "Questions concerning whether international trade is ............. more beneﬁcial in lowerincome economias have been raised foryears.",
+		"answers": [
+			{
+				"content": "mum",
+				"key": "A"
+			},
+			{
+				"content": "such",
+				"key": "B"
+			},
+			{
+				"content": "very",
+				"key": "C"
+			},
+			{
+				"content": "too",
+				"key": "D"
+			}
+		],
+		"correct_answer": "A"
+	},
+	{
+		"id": 337,
+		"question": "Fat-blocking weight loss pills....... over the counter eftective immediately.",
+		"answers": [
+			{
+				"content": "selling",
+				"key": "A"
+			},
+			{
+				"content": "have been selling",
+				"key": "B"
+			},
+			{
+				"content": "will be sold",
+				"key": "C"
+			},
+			{
+				"content": "have been said",
+				"key": "D"
+			}
+		],
+		"correct_answer": "A"
+	},
+	{
+		"id": 338,
+		"question": "Compact List Inc. appreciates the..........you have made tr: this annual event ",
+		"answers": [
+			{
+				"content": "evaluations",
+				"key": "A"
+			},
+			{
+				"content": "attempts",
+				"key": "B"
+			},
+			{
+				"content": "medicines",
+				"key": "C"
+			},
+			{
+				"content": "contributions",
+				"key": "D"
+			}
+		],
+		"correct_answer": "A"
+	},
+	{
+		"id": 339,
+		"question": "A group of established corporations will.................... carry out the downsizing program, which represents the biggest reclamation in jobs since 2000.",
+		"answers": [
+			{
+				"content": "highly",
+				"key": "A"
+			},
+			{
+				"content": "most likely",
+				"key": "B"
+			},
+			{
+				"content": "slightly",
+				"key": "C"
+			},
+			{
+				"content": "timely",
+				"key": "D"
+			}
+		],
+		"correct_answer": "A"
+	},
+	{
+		"id": 340,
+		"question": ".........................fulfilling the requirements and receiving unanimous approval from the committee, Ms. Norton was not accepted for the position.",
+		"answers": [
+			{
+				"content": "During",
+				"key": "A"
+			},
+			{
+				"content": "Despite",
+				"key": "B"
+			},
+			{
+				"content": "Besides",
+				"key": "C"
+			},
+			{
+				"content": "into",
+				"key": "D"
+			}
+		],
+		"correct_answer": "A"
+	},
+	{
+		"id": 341,
+		"question": "Please make sure that all the volts in overhead comparimenis are tightened,,,,,,,,,.",
+		"answers": [
+			{
+				"content": "secure",
+				"key": "A"
+			},
+			{
+				"content": "mum",
+				"key": "B"
+			},
+			{
+				"content": "securely",
+				"key": "C"
+			},
+			{
+				"content": "more secure",
+				"key": "D"
+			}
+		],
+		"correct_answer": "A"
+	},
+	{
+		"id": 342,
+		"question": "Your salaries and earnings vary greatly.depending on several..............such as your specialty area, degree, and sector of employment.",
+		"answers": [
+			{
+				"content": "factors",
+				"key": "A"
+			},
+			{
+				"content": "sides",
+				"key": "B"
+			},
+			{
+				"content": "senses",
+				"key": "C"
+			},
+			{
+				"content": "portions",
+				"key": "D"
+			}
+		],
+		"correct_answer": "A"
+	},
+	{
+		"id": 343,
+		"question": "Although revised reports are better thanthey were last week, Mr. Dan Gum, theprogram director, suggested............them.",
+		"answers": [
+			{
+				"content": "to rewrite",
+				"key": "A"
+			},
+			{
+				"content": "rewriting",
+				"key": "B"
+			},
+			{
+				"content": "rewritten",
+				"key": "C"
+			},
+			{
+				"content": "should rewrite",
+				"key": "D"
+			}
+		],
+		"correct_answer": "A"
+	},
+	{
+		"id": 344,
+		"question": "We are obligated to retain all me manuals, even for..................appliances.",
+		"answers": [
+			{
+				"content": "conditional",
+				"key": "A"
+			},
+			{
+				"content": "partial",
+				"key": "B"
+			},
+			{
+				"content": "temporary",
+				"key": "C"
+			},
+			{
+				"content": "discontinued",
+				"key": "D"
+			}
+		],
+		"correct_answer": "A"
+	},
+	{
+		"id": 345,
+		"question": "Drivers are asked to park their cars by................rather than using a valet parking system.",
+		"answers": [
+			{
+				"content": "they",
+				"key": "A"
+			},
+			{
+				"content": "their",
+				"key": "B"
+			},
+			{
+				"content": "them",
+				"key": "C"
+			},
+			{
+				"content": "themselves",
+				"key": "D"
+			}
+		],
+		"correct_answer": "A"
+	},
+	{
+		"id": 346,
+		"question": "DTS has undergone drastic changes designed to better ...............its valued customers.",
+		"answers": [
+			{
+				"content": "offer",
+				"key": "A"
+			},
+			{
+				"content": "provide",
+				"key": "B"
+			},
+			{
+				"content": "serve",
+				"key": "C"
+			},
+			{
+				"content": "reflect",
+				"key": "D"
+			}
+		],
+		"correct_answer": "A"
+	}
+]
