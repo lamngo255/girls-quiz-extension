@@ -1,29 +1,24 @@
-# boobs-quiz-extension
+# boobies-quiz-extension
 
-## Project setup
-```
-yarn install
-```
+> Learning english with quizzes funny boobs pictures, really inspiring and motivational!
 
-### Compiles and hot-reloads for development
-```
+## Project Setup
+
+```bash
+# install dependencies
+yarn
+
+# serve with hot reload at localhost:8080
 yarn run serve
+
+# build for production with minification
+yarn build
+
+# Go to chrome://extension -> Load unpacked -> locate to /dist folder
 ```
 
-### Compiles and minifies for production
-```
-yarn run build
-```
+### Screenshots
 
-### Run your tests
-```
-yarn run test
-```
-
-### Lints and fixes files
-```
-yarn run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+<p float="left">
+  <img src="https://i.imgur.com/wiqjPgA.png" width="600" /> 
+</p>
