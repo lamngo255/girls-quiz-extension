@@ -1,6 +1,6 @@
-# boobies-quiz-extension
+# girls-quiz-extension
 
-> Learning english with quizzes funny boobs pictures, really inspiring and educational!
+> Practice english grammar skills with sexy girls, really inspiring and educational!
 
 ## Project Setup
 
