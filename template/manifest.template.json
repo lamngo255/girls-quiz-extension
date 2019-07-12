@@ -1,7 +1,7 @@
 {
 	"name": "girls-quiz-app",
-	"short_name": "Boobies English Quiz Extension",
-	"description": "Learning english with funny boobs pictures",
+	"short_name": "Girls Quiz Extension",
+	"description": "Practice english grammar skills with sexy girls, really inspiring and educational!",
 	"version": "0.0.1",
 	"manifest_version": 2,
 	"icons": {
@@ -13,7 +13,7 @@
 			"19": "images/icon.png",
 			"38": "images/icon.png"
 		},
-		"default_title": "Boobies English Quiz Extension",
+		"default_title": "Girls Quiz Extension",
 		"default_popup": "index.html"
 	},
 	"omnibox": {
