@@ -1,7 +1,7 @@
 <template>
   <div>
     <center>
-      <h4>Boobs Quiz App</h4>
+      <h4>Girls Quiz App</h4>
     </center>
   </div>
 </template>
