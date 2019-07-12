@@ -2,6 +2,8 @@
 
 > Practice english grammar skills with sexy girls, really inspiring and educational!
 
+Download link: https://chrome.google.com/webstore/detail/girls-quiz-extension/kepgknaolmekfcmpeldaomdgfmnbfjmi
+
 ## Project Setup
 
 ```bash
