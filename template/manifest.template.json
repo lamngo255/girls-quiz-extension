@@ -1,8 +1,7 @@
 {
-	"name": "girls-quiz-app",
-	"short_name": "Girls Quiz Extension",
+	"name": "Girls Quiz Extension",
 	"description": "Practice english grammar skills with sexy girls, really inspiring and educational!",
-	"version": "0.0.1",
+	"version": "0.1.0",
 	"manifest_version": 2,
 	"icons": {
 		"16": "images/icon.png",
